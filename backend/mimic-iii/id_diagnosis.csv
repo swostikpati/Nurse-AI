@@ -1,0 +1,65 @@
+subject_id,gender,dob,icd9_code,short_title,long_title
+99985,M,2127-04-08 00:00:00,0389,Septicemia NOS,Unspecified septicemia
+99985,M,2127-04-08 00:00:00,51881,Acute respiratry failure,Acute respiratory failure
+99985,M,2127-04-08 00:00:00,48241,Meth sus pneum d/t Staph,Methicillin susceptible pneumonia due to Staphylococcus aureus
+99985,M,2127-04-08 00:00:00,4870,Influenza with pneumonia,Influenza with pneumonia
+99985,M,2127-04-08 00:00:00,78552,Septic shock,Septic shock
+99985,M,2127-04-08 00:00:00,V4281,Trnspl status-bne marrow,Bone marrow replaced by transplant
+99985,M,2127-04-08 00:00:00,99592,Severe sepsis,Severe sepsis
+99985,M,2127-04-08 00:00:00,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism
+99985,M,2127-04-08 00:00:00,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+99985,M,2127-04-08 00:00:00,2859,Anemia NOS,"Anemia, unspecified"
+99985,M,2127-04-08 00:00:00,53081,Esophageal reflux,Esophageal reflux
+99985,M,2127-04-08 00:00:00,V1072,Hx-hodgkin's disease,Personal history of hodgkin's disease
+99985,M,2127-04-08 00:00:00,23871,Essntial thrombocythemia,Essential thrombocythemia
+99991,M,2137-04-07 00:00:00,56211,Dvrtcli colon w/o hmrhg,Diverticulitis of colon (without mention of hemorrhage)
+99991,M,2137-04-07 00:00:00,0389,Septicemia NOS,Unspecified septicemia
+99991,M,2137-04-07 00:00:00,5570,Ac vasc insuff intestine,Acute vascular insufficiency of intestine
+99991,M,2137-04-07 00:00:00,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+99991,M,2137-04-07 00:00:00,99592,Severe sepsis,Severe sepsis
+99991,M,2137-04-07 00:00:00,56081,Intestinal adhes w obstr,Intestinal or peritoneal adhesions with obstruction (postoperative) (postinfection)
+99991,M,2137-04-07 00:00:00,78959,Ascites NEC,Other ascites
+99991,M,2137-04-07 00:00:00,5538,Hernia NEC,Hernia of other specified sites without mention of obstruction or gangrene
+99991,M,2137-04-07 00:00:00,7885,Oliguria & anuria,Oliguria and anuria
+99991,M,2137-04-07 00:00:00,40291,Hyp ht dis NOS w ht fail,Unspecified hypertensive heart disease with heart failure
+99991,M,2137-04-07 00:00:00,4280,CHF NOS,"Congestive heart failure, unspecified"
+99991,M,2137-04-07 00:00:00,71947,Joint pain-ankle,"Pain in joint, ankle and foot"
+99991,M,2137-04-07 00:00:00,5644,Postop GI funct dis NEC,Other postoperative functional disorders
+99991,M,2137-04-07 00:00:00,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+99991,M,2137-04-07 00:00:00,V0254,Meth resis Staph carrier,Carrier or suspected carrier of Methicillin resistant Staphylococcus aureus
+99991,M,2137-04-07 00:00:00,E8788,Abn react-surg proc NEC,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+99991,M,2137-04-07 00:00:00,27651,Dehydration,Dehydration
+99992,F,2078-10-17 00:00:00,9999,Complic med care NEC/NOS,"Other and unspecified complications of medical care, not elsewhere classified"
+99992,F,2078-10-17 00:00:00,56881,Hemoperitoneum,Hemoperitoneum (nontraumatic)
+99992,F,2078-10-17 00:00:00,5772,Pancreat cyst/pseudocyst,Cyst and pseudocyst of pancreas
+99992,F,2078-10-17 00:00:00,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia
+99992,F,2078-10-17 00:00:00,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+99992,F,2078-10-17 00:00:00,5799,Intest malabsorption NOS,Unspecified intestinal malabsorption
+99992,F,2078-10-17 00:00:00,72992,Nontrauma hema soft tiss,Nontraumatic hematoma of soft tissue
+99992,F,2078-10-17 00:00:00,53081,Esophageal reflux,Esophageal reflux
+99992,F,2078-10-17 00:00:00,4019,Hypertension NOS,Unspecified essential hypertension
+99992,F,2078-10-17 00:00:00,2721,Pure hyperglyceridemia,Pure hyperglyceridemia
+99992,F,2078-10-17 00:00:00,5699,Intestinal disorder NOS,Unspecified disorder of intestine
+99992,F,2078-10-17 00:00:00,3004,Dysthymic disorder,Dysthymic disorder
+99995,F,2058-05-29 00:00:00,4414,Abdom aortic aneurysm,Abdominal aneurysm without mention of rupture
+99995,F,2058-05-29 00:00:00,42833,Ac on chr diast hrt fail,Acute on chronic diastolic heart failure
+99995,F,2058-05-29 00:00:00,99812,Hematoma complic proc,Hematoma complicating a procedure
+99995,F,2058-05-29 00:00:00,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia
+99995,F,2058-05-29 00:00:00,4241,Aortic valve disorder,Aortic valve disorders
+99995,F,2058-05-29 00:00:00,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+99995,F,2058-05-29 00:00:00,99811,Hemorrhage complic proc,Hemorrhage complicating a procedure
+99995,F,2058-05-29 00:00:00,9961,Malfunc vasc device/graf,"Mechanical complication of other vascular device, implant, and graft"
+99995,F,2058-05-29 00:00:00,E8798,Abn react-procedure NEC,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+99995,F,2058-05-29 00:00:00,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+99995,F,2058-05-29 00:00:00,V4581,Aortocoronary bypass,Aortocoronary bypass status
+99995,F,2058-05-29 00:00:00,4280,CHF NOS,"Congestive heart failure, unspecified"
+99995,F,2058-05-29 00:00:00,V103,Hx of breast malignancy,Personal history of malignant neoplasm of breast
+99995,F,2058-05-29 00:00:00,V1582,History of tobacco use,Personal history of tobacco use
+99995,F,2058-05-29 00:00:00,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants
+99995,F,2058-05-29 00:00:00,4400,Aortic atherosclerosis,Atherosclerosis of aorta
+99995,F,2058-05-29 00:00:00,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+99999,F,2054-01-06 00:00:00,75612,Spondylolisthesis,Spondylolisthesis
+99999,F,2054-01-06 00:00:00,7861,Stridor,Stridor
+99999,F,2054-01-06 00:00:00,4019,Hypertension NOS,Unspecified essential hypertension
+99999,F,2054-01-06 00:00:00,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+99999,F,2054-01-06 00:00:00,4139,Angina pectoris NEC/NOS,Other and unspecified angina pectoris

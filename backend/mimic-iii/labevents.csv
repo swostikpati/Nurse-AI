@@ -1,0 +1,1733 @@
+subject_id,itemid,value,valuenum,valueuom,charttime,label,fluid,category,loinc_code
+99985,50970,2.5,2.5,mg/dL,2181-02-05 17:32:00,Phosphate,Blood,Chemistry,2777-1
+99985,50971,3.8,3.8,mEq/L,2181-02-05 17:32:00,Potassium,Blood,Chemistry,2823-3
+99985,50861,49,49,IU/L,2181-02-06 03:05:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,251,251,IU/L,2181-02-06 03:05:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,11,11,mEq/L,2181-02-06 03:05:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,44,44,IU/L,2181-02-06 03:05:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,31,31,mEq/L,2181-02-06 03:05:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.5,0.5,mg/dL,2181-02-06 03:05:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50902,98,98,mEq/L,2181-02-06 03:05:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,0.7,0.7,mg/dL,2181-02-06 03:05:00,Creatinine,Blood,Chemistry,2160-0
+99985,50931,144,144,mg/dL,2181-02-06 03:05:00,Glucose,Blood,Chemistry,2345-7
+99985,50954,233,233,IU/L,2181-02-06 03:05:00,Lactate Dehydrogenase (LD),Blood,Chemistry,2532-0
+99985,50971,3.6,3.6,mEq/L,2181-02-06 03:05:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,136,136,mEq/L,2181-02-06 03:05:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,17,17,mg/dL,2181-02-06 03:05:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51146,0.4,0.4,%,2181-02-06 03:05:00,Basophils,Blood,Hematology,704-7
+99985,51200,2.4,2.4,%,2181-02-06 03:05:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,23.9,23.9,%,2181-02-06 03:05:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,7.8,7.8,g/dL,2181-02-06 03:05:00,Hemoglobin,Blood,Hematology,718-7
+99985,51244,5.8,5.8,%,2181-02-06 03:05:00,Lymphocytes,Blood,Hematology,731-0
+99985,51248,29.3,29.3,pg,2181-02-06 03:05:00,MCH,Blood,Hematology,785-6
+99985,51249,32.6,32.6,%,2181-02-06 03:05:00,MCHC,Blood,Hematology,786-4
+99985,51250,90,90,fL,2181-02-06 03:05:00,MCV,Blood,Hematology,787-2
+99985,51254,3.7,3.7,%,2181-02-06 03:05:00,Monocytes,Blood,Hematology,742-7
+99985,51256,87.6,87.6,%,2181-02-06 03:05:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,714,714,K/uL,2181-02-06 03:05:00,Platelet Count,Blood,Hematology,777-3
+99985,51277,15.6,15.6,%,2181-02-06 03:05:00,RDW,Blood,Hematology,788-0
+99985,51279,2.67,2.67,m/uL,2181-02-06 03:05:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,26.7,26.7,K/uL,2181-02-06 03:05:00,White Blood Cells,Blood,Hematology,804-5
+99985,50800,ART,,,2181-02-06 08:23:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,6,6,mEq/L,2181-02-06 08:23:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,31,31,mEq/L,2181-02-06 08:23:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,INTUBATED,,,2181-02-06 08:23:00,Intubated,Blood,Blood Gas,
+99985,50816,40,40,%,2181-02-06 08:23:00,Oxygen,Blood,Blood Gas,19994-3
+99985,50818,37,37,mm Hg,2181-02-06 08:23:00,pCO2,Blood,Blood Gas,11557-6
+99985,50819,5,5,,2181-02-06 08:23:00,PEEP,Blood,Blood Gas,20077-4
+99985,50820,7.52,7.52,units,2181-02-06 08:23:00,pH,Blood,Blood Gas,11558-4
+99985,50821,70,70,mm Hg,2181-02-06 08:23:00,pO2,Blood,Blood Gas,11556-8
+99985,50827,/26,,,2181-02-06 08:23:00,Ventilation Rate,Blood,Blood Gas,
+99985,50828,SPONTANEOUS,,,2181-02-06 08:23:00,Ventilator,Blood,Blood Gas,
+99985,50800,ART,,,2181-02-06 12:58:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,9,9,mEq/L,2181-02-06 12:58:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,35,35,mEq/L,2181-02-06 12:58:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,INTUBATED,,,2181-02-06 12:58:00,Intubated,Blood,Blood Gas,
+99985,50816,40,40,%,2181-02-06 12:58:00,Oxygen,Blood,Blood Gas,19994-3
+99985,50818,41,41,mm Hg,2181-02-06 12:58:00,pCO2,Blood,Blood Gas,11557-6
+99985,50819,0,0,,2181-02-06 12:58:00,PEEP,Blood,Blood Gas,20077-4
+99985,50820,7.52,7.52,units,2181-02-06 12:58:00,pH,Blood,Blood Gas,11558-4
+99985,50821,64,64,mm Hg,2181-02-06 12:58:00,pO2,Blood,Blood Gas,11556-8
+99985,50827,/23,,,2181-02-06 12:58:00,Ventilation Rate,Blood,Blood Gas,
+99985,50828,SPONTANEOUS,,,2181-02-06 12:58:00,Ventilator,Blood,Blood Gas,
+99985,51244,23.0,23,%,2182-03-14 12:25:00,Lymphocytes,Blood,Hematology,731-0
+99985,51248,29.2,29.2,pg,2182-03-14 12:25:00,MCH,Blood,Hematology,785-6
+99985,51249,33.2,33.2,%,2182-03-14 12:25:00,MCHC,Blood,Hematology,786-4
+99985,51250,88,88,fL,2182-03-14 12:25:00,MCV,Blood,Hematology,787-2
+99985,51254,5.5,5.5,%,2182-03-14 12:25:00,Monocytes,Blood,Hematology,742-7
+99985,51256,69.0,69,%,2182-03-14 12:25:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,374,374,K/uL,2182-03-14 12:25:00,Platelet Count,Blood,Hematology,777-3
+99985,51277,13.4,13.4,%,2182-03-14 12:25:00,RDW,Blood,Hematology,788-0
+99985,51279,4.32,4.32,m/uL,2182-03-14 12:25:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,10.9,10.9,K/uL,2182-03-14 12:25:00,White Blood Cells,Blood,Hematology,804-5
+99991,50960,1.9,1.9,mg/dL,2184-12-24 19:28:00,Magnesium,Blood,Chemistry,2601-3
+99991,50971,4.1,4.1,mEq/L,2184-12-24 19:28:00,Potassium,Blood,Chemistry,2823-3
+99991,51221,39.6,39.6,%,2184-12-24 19:28:00,Hematocrit,Blood,Hematology,4544-3
+99991,50868,13,13,mEq/L,2184-12-25 07:40:00,Anion Gap,Blood,Chemistry,1863-0
+99991,50882,26,26,mEq/L,2184-12-25 07:40:00,Bicarbonate,Blood,Chemistry,1963-8
+99991,50893,8.6,8.6,mg/dL,2184-12-25 07:40:00,"Calcium, Total",Blood,Chemistry,2000-8
+99991,50902,106,106,mEq/L,2184-12-25 07:40:00,Chloride,Blood,Chemistry,2075-0
+99991,50912,1.1,1.1,mg/dL,2184-12-25 07:40:00,Creatinine,Blood,Chemistry,2160-0
+99991,50931,116,116,mg/dL,2184-12-25 07:40:00,Glucose,Blood,Chemistry,2345-7
+99991,50960,1.9,1.9,mg/dL,2184-12-25 07:40:00,Magnesium,Blood,Chemistry,2601-3
+99991,50970,3.9,3.9,mg/dL,2184-12-25 07:40:00,Phosphate,Blood,Chemistry,2777-1
+99991,50971,3.9,3.9,mEq/L,2184-12-25 07:40:00,Potassium,Blood,Chemistry,2823-3
+99991,50983,141,141,mEq/L,2184-12-25 07:40:00,Sodium,Blood,Chemistry,2951-2
+99991,51006,17,17,mg/dL,2184-12-25 07:40:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99991,51221,36.1,36.1,%,2184-12-25 07:40:00,Hematocrit,Blood,Hematology,4544-3
+99991,51222,12.7,12.7,g/dL,2184-12-25 07:40:00,Hemoglobin,Blood,Hematology,718-7
+99991,51248,29.1,29.1,pg,2184-12-25 07:40:00,MCH,Blood,Hematology,785-6
+99991,51249,35.3,35.3,%,2184-12-25 07:40:00,MCHC,Blood,Hematology,786-4
+99991,51250,82,82,fL,2184-12-25 07:40:00,MCV,Blood,Hematology,787-2
+99991,51265,151,151,K/uL,2184-12-25 07:40:00,Platelet Count,Blood,Hematology,777-3
+99991,51277,13.3,13.3,%,2184-12-25 07:40:00,RDW,Blood,Hematology,788-0
+99991,51279,4.38,4.38,m/uL,2184-12-25 07:40:00,Red Blood Cells,Blood,Hematology,789-8
+99991,51301,8.6,8.6,K/uL,2184-12-25 07:40:00,White Blood Cells,Blood,Hematology,804-5
+99991,51221,33.1,33.1,%,2184-12-26 07:30:00,Hematocrit,Blood,Hematology,4544-3
+99991,51222,11.9,11.9,g/dL,2184-12-26 07:30:00,Hemoglobin,Blood,Hematology,718-7
+99991,51248,29.9,29.9,pg,2184-12-26 07:30:00,MCH,Blood,Hematology,785-6
+99991,51249,36.0,36,%,2184-12-26 07:30:00,MCHC,Blood,Hematology,786-4
+99991,51250,83,83,fL,2184-12-26 07:30:00,MCV,Blood,Hematology,787-2
+99991,51265,165,165,K/uL,2184-12-26 07:30:00,Platelet Count,Blood,Hematology,777-3
+99991,51277,13.3,13.3,%,2184-12-26 07:30:00,RDW,Blood,Hematology,788-0
+99991,51279,3.99,3.99,m/uL,2184-12-26 07:30:00,Red Blood Cells,Blood,Hematology,789-8
+99991,51301,10.1,10.1,K/uL,2184-12-26 07:30:00,White Blood Cells,Blood,Hematology,804-5
+99991,51221,31.8,31.8,%,2184-12-26 13:05:00,Hematocrit,Blood,Hematology,4544-3
+99991,50960,1.9,1.9,mg/dL,2184-12-27 05:25:00,Magnesium,Blood,Chemistry,2601-3
+99991,50971,4.2,4.2,mEq/L,2184-12-27 05:25:00,Potassium,Blood,Chemistry,2823-3
+99991,51221,33.5,33.5,%,2184-12-27 05:25:00,Hematocrit,Blood,Hematology,4544-3
+99991,51222,11.6,11.6,g/dL,2184-12-27 05:25:00,Hemoglobin,Blood,Hematology,718-7
+99991,51248,28.7,28.7,pg,2184-12-27 05:25:00,MCH,Blood,Hematology,785-6
+99991,51249,34.7,34.7,%,2184-12-27 05:25:00,MCHC,Blood,Hematology,786-4
+99991,51250,83,83,fL,2184-12-27 05:25:00,MCV,Blood,Hematology,787-2
+99991,51265,186,186,K/uL,2184-12-27 05:25:00,Platelet Count,Blood,Hematology,777-3
+99991,51279,4.05,4.05,m/uL,2184-12-27 05:25:00,Red Blood Cells,Blood,Hematology,789-8
+99991,51301,9.6,9.6,K/uL,2184-12-27 05:25:00,White Blood Cells,Blood,Hematology,804-5
+99991,51463,FEW,,,2184-12-27 05:50:00,Bacteria,Urine,Hematology,5769-5
+99991,51464,SM,,mg/dL,2184-12-27 05:50:00,Bilirubin,Urine,Hematology,5770-3
+99991,51466,TR,,,2184-12-27 05:50:00,Blood,Urine,Hematology,5794-3
+99991,51476,0-2,,#/hpf,2184-12-27 05:50:00,Epithelial Cells,Urine,Hematology,5787-7
+99991,51478,NEG,,mg/dL,2184-12-27 05:50:00,Glucose,Urine,Hematology,5792-7
+99991,51479,0-2,,#/lpf,2184-12-27 05:50:00,Granular Casts,Urine,Hematology,5793-5
+99991,51482,21-50,,#/lpf,2184-12-27 05:50:00,Hyaline Casts,Urine,Hematology,5796-8
+99991,51484,50,50,mg/dL,2184-12-27 05:50:00,Ketone,Urine,Hematology,5797-6
+99991,51486,TR,,,2184-12-27 05:50:00,Leukocytes,Urine,Hematology,5799-2
+99991,51487,NEG,,,2184-12-27 05:50:00,Nitrite,Urine,Hematology,5802-4
+99991,51491,5.0,5,units,2184-12-27 05:50:00,pH,Urine,Hematology,5803-2
+99991,51492,25,25,mg/dL,2184-12-27 05:50:00,Protein,Urine,Hematology,5804-0
+99991,51493,3-5,,#/hpf,2184-12-27 05:50:00,RBC,Urine,Hematology,5808-1
+99991,51498,1.028,1.028, ,2184-12-27 05:50:00,Specific Gravity,Urine,Hematology,5811-5
+99991,51506,Clear,,,2184-12-27 05:50:00,Urine Appearance,Urine,Hematology,5767-9
+99991,51508,Amber,,,2184-12-27 05:50:00,Urine Color,Urine,Hematology,5778-6
+99991,51514,1,1,mg/dL,2184-12-27 05:50:00,Urobilinogen,Urine,Hematology,5818-0
+99991,51516,3-5,,#/hpf,2184-12-27 05:50:00,WBC,Urine,Hematology,5821-4
+99991,51519,NONE,,,2184-12-27 05:50:00,Yeast,Urine,Hematology,5822-2
+99991,51221,32.1,32.1,%,2184-12-27 16:50:00,Hematocrit,Blood,Hematology,4544-3
+99991,50868,16,16,mEq/L,2184-12-27 21:40:00,Anion Gap,Blood,Chemistry,1863-0
+99991,50882,25,25,mEq/L,2184-12-27 21:40:00,Bicarbonate,Blood,Chemistry,1963-8
+99991,50893,8.6,8.6,mg/dL,2184-12-27 21:40:00,"Calcium, Total",Blood,Chemistry,2000-8
+99991,50902,102,102,mEq/L,2184-12-27 21:40:00,Chloride,Blood,Chemistry,2075-0
+99991,50912,2.5,2.5,mg/dL,2184-12-27 21:40:00,Creatinine,Blood,Chemistry,2160-0
+99991,50931,162,162,mg/dL,2184-12-27 21:40:00,Glucose,Blood,Chemistry,2345-7
+99985,50812,INTUBATED,,,2181-01-31 12:36:00,Intubated,Blood,Blood Gas,
+99985,50813,0.9,0.9,mmol/L,2181-01-31 12:36:00,Lactate,Blood,Blood Gas,32693-4
+99985,50816,50,50,%,2181-01-31 12:36:00,Oxygen,Blood,Blood Gas,19994-3
+99985,50818,40,40,mm Hg,2181-01-31 12:36:00,pCO2,Blood,Blood Gas,11557-6
+99985,50819,8,8,,2181-01-31 12:36:00,PEEP,Blood,Blood Gas,20077-4
+99985,50820,7.38,7.38,units,2181-01-31 12:36:00,pH,Blood,Blood Gas,11558-4
+99985,50821,94,94,mm Hg,2181-01-31 12:36:00,pO2,Blood,Blood Gas,11556-8
+99985,50825,39.2,39.2,,2181-01-31 12:36:00,Temperature,Blood,Blood Gas,
+99985,50827,/27,,,2181-01-31 12:36:00,Ventilation Rate,Blood,Blood Gas,
+99985,50828,SPONTANEOUS,,,2181-01-31 12:36:00,Ventilator,Blood,Blood Gas,
+99985,50861,67,67,IU/L,2181-02-01 03:42:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,381,381,IU/L,2181-02-01 03:42:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,10,10,mEq/L,2181-02-01 03:42:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,64,64,IU/L,2181-02-01 03:42:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,24,24,mEq/L,2181-02-01 03:42:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.9,0.9,mg/dL,2181-02-01 03:42:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50893,7.7,7.7,mg/dL,2181-02-01 03:42:00,"Calcium, Total",Blood,Chemistry,2000-8
+99985,50902,103,103,mEq/L,2181-02-01 03:42:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,0.8,0.8,mg/dL,2181-02-01 03:42:00,Creatinine,Blood,Chemistry,2160-0
+99985,50931,112,112,mg/dL,2181-02-01 03:42:00,Glucose,Blood,Chemistry,2345-7
+99985,50960,2.0,2,mg/dL,2181-02-01 03:42:00,Magnesium,Blood,Chemistry,2601-3
+99985,50970,2.1,2.1,mg/dL,2181-02-01 03:42:00,Phosphate,Blood,Chemistry,2777-1
+99985,50971,3.9,3.9,mEq/L,2181-02-01 03:42:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,133,133,mEq/L,2181-02-01 03:42:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,14,14,mg/dL,2181-02-01 03:42:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51146,0.1,0.1,%,2181-02-01 03:42:00,Basophils,Blood,Hematology,704-7
+99985,51200,0.6,0.6,%,2181-02-01 03:42:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,26.6,26.6,%,2181-02-01 03:42:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,8.8,8.8,g/dL,2181-02-01 03:42:00,Hemoglobin,Blood,Hematology,718-7
+99985,51237,1.2,1.2,,2181-02-01 03:42:00,INR(PT),Blood,Hematology,5895-7
+99985,51244,5.3,5.3,%,2181-02-01 03:42:00,Lymphocytes,Blood,Hematology,731-0
+99985,51248,29.5,29.5,pg,2181-02-01 03:42:00,MCH,Blood,Hematology,785-6
+99985,51249,33.2,33.2,%,2181-02-01 03:42:00,MCHC,Blood,Hematology,786-4
+99985,51250,89,89,fL,2181-02-01 03:42:00,MCV,Blood,Hematology,787-2
+99985,51254,8.1,8.1,%,2181-02-01 03:42:00,Monocytes,Blood,Hematology,742-7
+99985,51256,85.9,85.9,%,2181-02-01 03:42:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,334,334,K/uL,2181-02-01 03:42:00,Platelet Count,Blood,Hematology,777-3
+99985,51274,13.5,13.5,sec,2181-02-01 03:42:00,PT,Blood,Hematology,5902-2
+99985,51275,35.5,35.5,sec,2181-02-01 03:42:00,PTT,Blood,Hematology,3173-2
+99985,51277,14.4,14.4,%,2181-02-01 03:42:00,RDW,Blood,Hematology,788-0
+99985,51279,2.99,2.99,m/uL,2181-02-01 03:42:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,20.4,20.4,K/uL,2181-02-01 03:42:00,White Blood Cells,Blood,Hematology,804-5
+99985,51054,255,255,IU/L,2181-02-01 17:27:00,"Lactate Dehydrogenase, Pleural",Pleural,Chemistry,2530-4
+99985,51059,2.0,2,g/dL,2181-02-01 17:27:00,"Total Protein, Pleural",Pleural,Chemistry,2882-9
+99985,51444,3,3,%,2181-02-01 17:27:00,Eosinophils,Pleural,Hematology,30379-2
+99985,51446,1,1,%,2181-02-01 17:27:00,Lymphocytes,Pleural,Hematology,26481-2
+99985,51447,15,15,%,2181-02-01 17:27:00,Macrophages,Pleural,Hematology,40520-9
+99985,51448,13,13,%,2181-02-01 17:27:00,Mesothelial Cells,Pleural,Hematology,30431-1
+99985,51450,0,0,%,2181-02-01 17:27:00,Monos,Pleural,Hematology,33362-5
+99985,51486,NEG,,,2181-02-03 21:54:00,Leukocytes,Urine,Hematology,5799-2
+99985,51487,NEG,,,2181-02-03 21:54:00,Nitrite,Urine,Hematology,5802-4
+99985,51455,68,68,%,2181-02-01 17:27:00,Polys,Pleural,Hematology,26519-9
+99985,51457,2275,2275,#/uL,2181-02-01 17:27:00,"RBC, Pleural",Pleural,Hematology,26456-4
+99985,51458,6900,6900,#/uL,2181-02-01 17:27:00,"WBC, Pleural",Pleural,Hematology,26467-1
+99985,50800,ART,,,2181-02-02 02:27:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,1,1,mEq/L,2181-02-02 02:27:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,28,28,mEq/L,2181-02-02 02:27:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,INTUBATED,,,2181-02-02 02:27:00,Intubated,Blood,Blood Gas,
+99985,50816,50,50,%,2181-02-02 02:27:00,Oxygen,Blood,Blood Gas,19994-3
+99985,50818,41,41,mm Hg,2181-02-02 02:27:00,pCO2,Blood,Blood Gas,11557-6
+99985,50819,8,8,,2181-02-02 02:27:00,PEEP,Blood,Blood Gas,20077-4
+99985,50820,7.42,7.42,units,2181-02-02 02:27:00,pH,Blood,Blood Gas,11558-4
+99985,50821,82,82,mm Hg,2181-02-02 02:27:00,pO2,Blood,Blood Gas,11556-8
+99985,50825,37.7,37.7,,2181-02-02 02:27:00,Temperature,Blood,Blood Gas,
+99985,50826,400,400,,2181-02-02 02:27:00,Tidal Volume,Blood,Blood Gas,20112-9
+99985,50861,70,70,IU/L,2181-02-02 04:03:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,385,385,IU/L,2181-02-02 04:03:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,8,8,mEq/L,2181-02-02 04:03:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,75,75,IU/L,2181-02-02 04:03:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,25,25,mEq/L,2181-02-02 04:03:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.8,0.8,mg/dL,2181-02-02 04:03:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50893,7.6,7.6,mg/dL,2181-02-02 04:03:00,"Calcium, Total",Blood,Chemistry,2000-8
+99985,50902,104,104,mEq/L,2181-02-02 04:03:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,0.9,0.9,mg/dL,2181-02-02 04:03:00,Creatinine,Blood,Chemistry,2160-0
+99985,50931,149,149,mg/dL,2181-02-02 04:03:00,Glucose,Blood,Chemistry,2345-7
+99985,50954,176,176,IU/L,2181-02-02 04:03:00,Lactate Dehydrogenase (LD),Blood,Chemistry,2532-0
+99995,51265,166,166,K/uL,2147-02-09 02:31:00,Platelet Count,Blood,Hematology,777-3
+99995,51277,18.2,18.2,%,2147-02-09 02:31:00,RDW,Blood,Hematology,788-0
+99995,51279,3.13,3.13,m/uL,2147-02-09 02:31:00,Red Blood Cells,Blood,Hematology,789-8
+99995,51301,7.3,7.3,K/uL,2147-02-09 02:31:00,White Blood Cells,Blood,Hematology,804-5
+99995,50910,47,47,IU/L,2147-02-09 06:45:00,Creatine Kinase (CK),Blood,Chemistry,2157-6
+99995,50911,3,3,ng/mL,2147-02-09 06:45:00,"Creatine Kinase, MB Isoenzyme",Blood,Chemistry,6773-6
+99995,51237,1.6,1.6,,2147-02-09 07:35:00,INR(PT),Blood,Hematology,5895-7
+99995,51274,17.1,17.1,sec,2147-02-09 07:35:00,PT,Blood,Hematology,5902-2
+99995,51275,34.7,34.7,sec,2147-02-09 07:35:00,PTT,Blood,Hematology,3173-2
+99995,50802,10,10,mEq/L,2147-02-09 08:09:00,Base Excess,Blood,Blood Gas,11555-0
+99995,50804,36,36,mEq/L,2147-02-09 08:09:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99995,50808,1.13,1.13,mmol/L,2147-02-09 08:09:00,Free Calcium,Blood,Blood Gas,1994-3
+99995,50813,0.9,0.9,mmol/L,2147-02-09 08:09:00,Lactate,Blood,Blood Gas,32693-4
+99995,50818,49,49,mm Hg,2147-02-09 08:09:00,pCO2,Blood,Blood Gas,11557-6
+99995,50820,7.46,7.46,units,2147-02-09 08:09:00,pH,Blood,Blood Gas,11558-4
+99995,50821,110,110,mm Hg,2147-02-09 08:09:00,pO2,Blood,Blood Gas,11556-8
+99995,50822,3.5,3.5,mEq/L,2147-02-09 08:09:00,"Potassium, Whole Blood",Blood,Blood Gas,6298-4
+99995,50824,135,135,mEq/L,2147-02-09 08:09:00,"Sodium, Whole Blood",Blood,Blood Gas,2947-0
+99995,50868,11,11,mEq/L,2147-02-09 15:46:00,Anion Gap,Blood,Chemistry,1863-0
+99995,50882,32,32,mEq/L,2147-02-09 15:46:00,Bicarbonate,Blood,Chemistry,1963-8
+99995,50893,8.6,8.6,mg/dL,2147-02-09 15:46:00,"Calcium, Total",Blood,Chemistry,2000-8
+99995,50902,99,99,mEq/L,2147-02-09 15:46:00,Chloride,Blood,Chemistry,2075-0
+99995,50912,0.4,0.4,mg/dL,2147-02-09 15:46:00,Creatinine,Blood,Chemistry,2160-0
+99995,50931,129,129,mg/dL,2147-02-09 15:46:00,Glucose,Blood,Chemistry,2345-7
+99995,50960,2.0,2,mg/dL,2147-02-09 15:46:00,Magnesium,Blood,Chemistry,2601-3
+99995,50970,2.6,2.6,mg/dL,2147-02-09 15:46:00,Phosphate,Blood,Chemistry,2777-1
+99995,50971,3.8,3.8,mEq/L,2147-02-09 15:46:00,Potassium,Blood,Chemistry,2823-3
+99995,50983,138,138,mEq/L,2147-02-09 15:46:00,Sodium,Blood,Chemistry,2951-2
+99995,51006,12,12,mg/dL,2147-02-09 15:46:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99995,51476,0,0,#/hpf,2147-02-09 22:17:00,Epithelial Cells,Urine,Hematology,5787-7
+99995,51491,6.0,6,units,2147-02-09 22:17:00,pH,Urine,Hematology,5803-2
+99995,51492,30,30,mg/dL,2147-02-09 22:17:00,Protein,Urine,Hematology,5804-0
+99995,51493,20,20,#/hpf,2147-02-09 22:17:00,RBC,Urine,Hematology,5808-1
+99995,51498,1.018,1.018, ,2147-02-09 22:17:00,Specific Gravity,Urine,Hematology,5811-5
+99995,51516,18,18,#/hpf,2147-02-09 22:17:00,WBC,Urine,Hematology,5821-4
+99995,51519,NONE,,,2147-02-09 22:17:00,Yeast,Urine,Hematology,5822-2
+99995,50868,10,10,mEq/L,2147-02-10 01:05:00,Anion Gap,Blood,Chemistry,1863-0
+99995,50882,33,33,mEq/L,2147-02-10 01:05:00,Bicarbonate,Blood,Chemistry,1963-8
+99995,50893,8.6,8.6,mg/dL,2147-02-10 01:05:00,"Calcium, Total",Blood,Chemistry,2000-8
+99995,50902,98,98,mEq/L,2147-02-10 01:05:00,Chloride,Blood,Chemistry,2075-0
+99995,50912,0.4,0.4,mg/dL,2147-02-10 01:05:00,Creatinine,Blood,Chemistry,2160-0
+99995,50931,125,125,mg/dL,2147-02-10 01:05:00,Glucose,Blood,Chemistry,2345-7
+99995,50960,2.5,2.5,mg/dL,2147-02-10 01:05:00,Magnesium,Blood,Chemistry,2601-3
+99995,50970,2.5,2.5,mg/dL,2147-02-10 01:05:00,Phosphate,Blood,Chemistry,2777-1
+99995,50971,4.2,4.2,mEq/L,2147-02-10 01:05:00,Potassium,Blood,Chemistry,2823-3
+99995,50983,137,137,mEq/L,2147-02-10 01:05:00,Sodium,Blood,Chemistry,2951-2
+99995,51006,11,11,mg/dL,2147-02-10 01:05:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99995,51221,28.1,28.1,%,2147-02-10 01:05:00,Hematocrit,Blood,Hematology,4544-3
+99995,51222,8.9,8.9,g/dL,2147-02-10 01:05:00,Hemoglobin,Blood,Hematology,718-7
+99995,51237,1.6,1.6,,2147-02-10 01:05:00,INR(PT),Blood,Hematology,5895-7
+99995,51248,29.8,29.8,pg,2147-02-10 01:05:00,MCH,Blood,Hematology,785-6
+99995,51249,31.7,31.7,%,2147-02-10 01:05:00,MCHC,Blood,Hematology,786-4
+99995,51250,94,94,fL,2147-02-10 01:05:00,MCV,Blood,Hematology,787-2
+99995,51265,124,124,K/uL,2147-02-10 01:05:00,Platelet Count,Blood,Hematology,777-3
+99995,51274,17.4,17.4,sec,2147-02-10 01:05:00,PT,Blood,Hematology,5902-2
+99995,51275,33.3,33.3,sec,2147-02-10 01:05:00,PTT,Blood,Hematology,3173-2
+99995,51277,18.0,18,%,2147-02-10 01:05:00,RDW,Blood,Hematology,788-0
+99995,51279,2.99,2.99,m/uL,2147-02-10 01:05:00,Red Blood Cells,Blood,Hematology,789-8
+99995,51301,6.4,6.4,K/uL,2147-02-10 01:05:00,White Blood Cells,Blood,Hematology,804-5
+99995,51237,2.0,2,,2147-02-11 03:07:00,INR(PT),Blood,Hematology,5895-7
+99995,51274,20.6,20.6,sec,2147-02-11 03:07:00,PT,Blood,Hematology,5902-2
+99995,51476,1,1,#/hpf,2147-02-11 08:03:00,Epithelial Cells,Urine,Hematology,5787-7
+99995,51482,1,1,#/lpf,2147-02-11 08:03:00,Hyaline Casts,Urine,Hematology,5796-8
+99995,51491,5.5,5.5,units,2147-02-11 08:03:00,pH,Urine,Hematology,5803-2
+99995,51492,30,30,mg/dL,2147-02-11 08:03:00,Protein,Urine,Hematology,5804-0
+99995,51493,6,6,#/hpf,2147-02-11 08:03:00,RBC,Urine,Hematology,5808-1
+99995,51498,1.020,1.02, ,2147-02-11 08:03:00,Specific Gravity,Urine,Hematology,5811-5
+99995,51516,30,30,#/hpf,2147-02-11 08:03:00,WBC,Urine,Hematology,5821-4
+99995,51519,NONE,,,2147-02-11 08:03:00,Yeast,Urine,Hematology,5822-2
+99999,50802,-2,-2,mEq/L,2117-12-30 09:05:00,Base Excess,Blood,Blood Gas,11555-0
+99999,50804,24,24,mEq/L,2117-12-30 09:05:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99999,50806,104,104,mEq/L,2117-12-30 09:05:00,"Chloride, Whole Blood",Blood,Blood Gas,2069-3
+99999,50808,1.14,1.14,mmol/L,2117-12-30 09:05:00,Free Calcium,Blood,Blood Gas,1994-3
+99999,50809,189,189,mg/dL,2117-12-30 09:05:00,Glucose,Blood,Blood Gas,2339-0
+99985,51231,OCCASIONAL,,,2181-02-08 04:20:00,Howell-Jolly Bodies,Blood,Hematology,7793-3
+99985,51233,2+,,,2181-02-08 04:20:00,Hypochromia,Blood,Hematology,728-6
+99985,51244,11.6,11.6,%,2181-02-08 04:20:00,Lymphocytes,Blood,Hematology,731-0
+99985,51246,2+,,,2181-02-08 04:20:00,Macrocytes,Blood,Hematology,738-5
+99985,51248,28.9,28.9,pg,2181-02-08 04:20:00,MCH,Blood,Hematology,785-6
+99985,51249,31.6,31.6,%,2181-02-08 04:20:00,MCHC,Blood,Hematology,786-4
+99985,51250,92,92,fL,2181-02-08 04:20:00,MCV,Blood,Hematology,787-2
+99985,51252,NORMAL,,,2181-02-08 04:20:00,Microcytes,Blood,Hematology,741-9
+99985,51254,4.4,4.4,%,2181-02-08 04:20:00,Monocytes,Blood,Hematology,742-7
+99985,51256,80.8,80.8,%,2181-02-08 04:20:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,896,896,K/uL,2181-02-08 04:20:00,Platelet Count,Blood,Hematology,777-3
+99985,51267,2+,,,2181-02-08 04:20:00,Poikilocytosis,Blood,Hematology,779-9
+99985,51268,1+,,,2181-02-08 04:20:00,Polychromasia,Blood,Hematology,10378-8
+99985,51277,17.3,17.3,%,2181-02-08 04:20:00,RDW,Blood,Hematology,788-0
+99985,51279,2.67,2.67,m/uL,2181-02-08 04:20:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51283,4.7,4.7,%,2181-02-08 04:20:00,"Reticulocyte Count, Automated",Blood,Hematology,17849-1
+99985,51287,1+,,,2181-02-08 04:20:00,Schistocytes,Blood,Hematology,800-3
+99985,51294,OCCASIONAL,,,2181-02-08 04:20:00,Target Cells,Blood,Hematology,10381-2
+99985,51301,22.0,22,K/uL,2181-02-08 04:20:00,White Blood Cells,Blood,Hematology,804-5
+99985,50800,ART,,,2181-02-08 08:09:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,0,0,mEq/L,2181-02-08 08:09:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,24,24,mEq/L,2181-02-08 08:09:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50818,31,31,mm Hg,2181-02-08 08:09:00,pCO2,Blood,Blood Gas,11557-6
+99985,50820,7.48,7.48,units,2181-02-08 08:09:00,pH,Blood,Blood Gas,11558-4
+99985,50821,74,74,mm Hg,2181-02-08 08:09:00,pO2,Blood,Blood Gas,11556-8
+99985,50861,51,51,IU/L,2181-02-09 03:27:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,281,281,IU/L,2181-02-09 03:27:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,12,12,mEq/L,2181-02-09 03:27:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,41,41,IU/L,2181-02-09 03:27:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,23,23,mEq/L,2181-02-09 03:27:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.5,0.5,mg/dL,2181-02-09 03:27:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50902,105,105,mEq/L,2181-02-09 03:27:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,1.0,1,mg/dL,2181-02-09 03:27:00,Creatinine,Blood,Chemistry,2160-0
+99985,50931,113,113,mg/dL,2181-02-09 03:27:00,Glucose,Blood,Chemistry,2345-7
+99985,50954,262,262,IU/L,2181-02-09 03:27:00,Lactate Dehydrogenase (LD),Blood,Chemistry,2532-0
+99985,50960,2.5,2.5,mg/dL,2181-02-09 03:27:00,Magnesium,Blood,Chemistry,2601-3
+99985,50971,4.2,4.2,mEq/L,2181-02-09 03:27:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,136,136,mEq/L,2181-02-09 03:27:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,17,17,mg/dL,2181-02-09 03:27:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51221,25.3,25.3,%,2181-02-09 03:27:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,8.2,8.2,g/dL,2181-02-09 03:27:00,Hemoglobin,Blood,Hematology,718-7
+99985,51248,29.4,29.4,pg,2181-02-09 03:27:00,MCH,Blood,Hematology,785-6
+99985,51249,32.2,32.2,%,2181-02-09 03:27:00,MCHC,Blood,Hematology,786-4
+99985,51250,91,91,fL,2181-02-09 03:27:00,MCV,Blood,Hematology,787-2
+99985,51265,948,948,K/uL,2181-02-09 03:27:00,Platelet Count,Blood,Hematology,777-3
+99985,51277,17.0,17,%,2181-02-09 03:27:00,RDW,Blood,Hematology,788-0
+99985,51279,2.78,2.78,m/uL,2181-02-09 03:27:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,20.4,20.4,K/uL,2181-02-09 03:27:00,White Blood Cells,Blood,Hematology,804-5
+99985,50861,47,47,IU/L,2181-02-10 07:28:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,249,249,IU/L,2181-02-10 07:28:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,13,13,mEq/L,2181-02-10 07:28:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,37,37,IU/L,2181-02-10 07:28:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,26,26,mEq/L,2181-02-10 07:28:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.6,0.6,mg/dL,2181-02-10 07:28:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50893,8.2,8.2,mg/dL,2181-02-10 07:28:00,"Calcium, Total",Blood,Chemistry,2000-8
+99985,50902,101,101,mEq/L,2181-02-10 07:28:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,0.9,0.9,mg/dL,2181-02-10 07:28:00,Creatinine,Blood,Chemistry,2160-0
+99985,50920,See Comments,,,2181-02-10 07:28:00,Estimated GFR (MDRD equation),Blood,Chemistry,33914-3
+99985,50931,106,106,mg/dL,2181-02-10 07:28:00,Glucose,Blood,Chemistry,2345-7
+99985,50954,265,265,IU/L,2181-02-10 07:28:00,Lactate Dehydrogenase (LD),Blood,Chemistry,2532-0
+99985,50960,2.4,2.4,mg/dL,2181-02-10 07:28:00,Magnesium,Blood,Chemistry,2601-3
+99985,50970,3.8,3.8,mg/dL,2181-02-10 07:28:00,Phosphate,Blood,Chemistry,2777-1
+99985,50971,3.7,3.7,mEq/L,2181-02-10 07:28:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,136,136,mEq/L,2181-02-10 07:28:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,13,13,mg/dL,2181-02-10 07:28:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51134,OCCASIONAL,,,2181-02-10 07:28:00,Acanthocytes,Blood,Hematology,7789-1
+99985,51137,1+,,,2181-02-10 07:28:00,Anisocytosis,Blood,Hematology,702-1
+99985,51146,0.4,0.4,%,2181-02-10 07:28:00,Basophils,Blood,Hematology,704-7
+99985,51200,3.3,3.3,%,2181-02-10 07:28:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,29.8,29.8,%,2181-02-10 07:28:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,9.7,9.7,g/dL,2181-02-10 07:28:00,Hemoglobin,Blood,Hematology,718-7
+99985,51233,2+,,,2181-02-10 07:28:00,Hypochromia,Blood,Hematology,728-6
+99985,51237,3.0,3,,2181-02-10 07:28:00,INR(PT),Blood,Hematology,5895-7
+99991,51519,NONE,,,2184-12-28 13:30:00,Yeast,Urine,Hematology,5822-2
+99985,51301,19.4,19.4,K/uL,2181-01-28 07:53:00,White Blood Cells,Blood,Hematology,804-5
+99985,50800,ART,,,2181-01-28 13:43:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,1,1,mEq/L,2181-01-28 13:43:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,26,26,mEq/L,2181-01-28 13:43:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,NOT INTUBATED,,,2181-01-28 13:43:00,Intubated,Blood,Blood Gas,
+99985,50818,35,35,mm Hg,2181-01-28 13:43:00,pCO2,Blood,Blood Gas,11557-6
+99985,50820,7.46,7.46,units,2181-01-28 13:43:00,pH,Blood,Blood Gas,11558-4
+99985,50821,56,56,mm Hg,2181-01-28 13:43:00,pO2,Blood,Blood Gas,11556-8
+99985,50800,ART,,,2181-01-29 06:07:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,0,0,mEq/L,2181-01-29 06:07:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,26,26,mEq/L,2181-01-29 06:07:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50813,2.1,2.1,mmol/L,2181-01-29 06:07:00,Lactate,Blood,Blood Gas,32693-4
+99985,50818,39,39,mm Hg,2181-01-29 06:07:00,pCO2,Blood,Blood Gas,11557-6
+99985,50820,7.41,7.41,units,2181-01-29 06:07:00,pH,Blood,Blood Gas,11558-4
+99985,50821,39,39,mm Hg,2181-01-29 06:07:00,pO2,Blood,Blood Gas,11556-8
+99985,50800,ART,,,2181-01-29 06:36:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,0,0,mEq/L,2181-01-29 06:36:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,25,25,mEq/L,2181-01-29 06:36:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50818,34,34,mm Hg,2181-01-29 06:36:00,pCO2,Blood,Blood Gas,11557-6
+99985,50820,7.46,7.46,units,2181-01-29 06:36:00,pH,Blood,Blood Gas,11558-4
+99985,50821,47,47,mm Hg,2181-01-29 06:36:00,pO2,Blood,Blood Gas,11556-8
+99985,50800,ART,,,2181-01-29 08:57:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,0,0,mEq/L,2181-01-29 08:57:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,26,26,mEq/L,2181-01-29 08:57:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,INTUBATED,,,2181-01-29 08:57:00,Intubated,Blood,Blood Gas,
+99985,50813,1.2,1.2,mmol/L,2181-01-29 08:57:00,Lactate,Blood,Blood Gas,32693-4
+99985,50818,41,41,mm Hg,2181-01-29 08:57:00,pCO2,Blood,Blood Gas,11557-6
+99985,50820,7.39,7.39,units,2181-01-29 08:57:00,pH,Blood,Blood Gas,11558-4
+99985,50821,46,46,mm Hg,2181-01-29 08:57:00,pO2,Blood,Blood Gas,11556-8
+99985,50861,36,36,IU/L,2181-01-29 10:07:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50862,2.5,2.5,g/dL,2181-01-29 10:07:00,Albumin,Blood,Chemistry,1751-7
+99985,50863,77,77,IU/L,2181-01-29 10:07:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,12,12,mEq/L,2181-01-29 10:07:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,29,29,IU/L,2181-01-29 10:07:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,24,24,mEq/L,2181-01-29 10:07:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.7,0.7,mg/dL,2181-01-29 10:07:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50887,HOLD,,,2181-01-29 10:07:00,Blue Top Hold,Blood,Chemistry,
+99985,50893,7.2,7.2,mg/dL,2181-01-29 10:07:00,"Calcium, Total",Blood,Chemistry,2000-8
+99985,50902,104,104,mEq/L,2181-01-29 10:07:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,0.9,0.9,mg/dL,2181-01-29 10:07:00,Creatinine,Blood,Chemistry,2160-0
+99985,50931,117,117,mg/dL,2181-01-29 10:07:00,Glucose,Blood,Chemistry,2345-7
+99985,50954,172,172,IU/L,2181-01-29 10:07:00,Lactate Dehydrogenase (LD),Blood,Chemistry,2532-0
+99985,50960,1.7,1.7,mg/dL,2181-01-29 10:07:00,Magnesium,Blood,Chemistry,2601-3
+99985,50970,2.2,2.2,mg/dL,2181-01-29 10:07:00,Phosphate,Blood,Chemistry,2777-1
+99985,50971,3.9,3.9,mEq/L,2181-01-29 10:07:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,136,136,mEq/L,2181-01-29 10:07:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,13,13,mg/dL,2181-01-29 10:07:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51221,28.5,28.5,%,2181-01-29 10:07:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,9.4,9.4,g/dL,2181-01-29 10:07:00,Hemoglobin,Blood,Hematology,718-7
+99985,51248,29.5,29.5,pg,2181-01-29 10:07:00,MCH,Blood,Hematology,785-6
+99985,51249,32.9,32.9,%,2181-01-29 10:07:00,MCHC,Blood,Hematology,786-4
+99985,51250,90,90,fL,2181-01-29 10:07:00,MCV,Blood,Hematology,787-2
+99985,51265,250,250,K/uL,2181-01-29 10:07:00,Platelet Count,Blood,Hematology,777-3
+99985,51277,14.2,14.2,%,2181-01-29 10:07:00,RDW,Blood,Hematology,788-0
+99985,51279,3.18,3.18,m/uL,2181-01-29 10:07:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,12.6,12.6,K/uL,2181-01-29 10:07:00,White Blood Cells,Blood,Hematology,804-5
+99985,50800,ART,,,2181-01-29 10:26:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50801,531,531,mm Hg,2181-01-29 10:26:00,Alveolar-arterial Gradient,Blood,Blood Gas,19991-9
+99985,50802,0,0,mEq/L,2181-01-29 10:26:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,26,26,mEq/L,2181-01-29 10:26:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,INTUBATED,,,2181-01-29 10:26:00,Intubated,Blood,Blood Gas,
+99985,50816,100,100,%,2181-01-29 10:26:00,Oxygen,Blood,Blood Gas,19994-3
+99985,50818,44,44,mm Hg,2181-01-29 10:26:00,pCO2,Blood,Blood Gas,11557-6
+99985,50819,8,8,,2181-01-29 10:26:00,PEEP,Blood,Blood Gas,20077-4
+99985,50820,7.36,7.36,units,2181-01-29 10:26:00,pH,Blood,Blood Gas,11558-4
+99985,50821,154,154,mm Hg,2181-01-29 10:26:00,pO2,Blood,Blood Gas,11556-8
+99985,50823,87,87,,2181-01-29 10:26:00,Required O2,Blood,Blood Gas,
+99985,50825,39.2,39.2,,2181-01-29 10:26:00,Temperature,Blood,Blood Gas,
+99985,50826,500,500,,2181-01-29 10:26:00,Tidal Volume,Blood,Blood Gas,20112-9
+99985,50827,18/,,,2181-01-29 10:26:00,Ventilation Rate,Blood,Blood Gas,
+99985,50800,ART,,,2181-01-29 15:08:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50801,437,437,mm Hg,2181-01-29 15:08:00,Alveolar-arterial Gradient,Blood,Blood Gas,19991-9
+99985,50802,0,0,mEq/L,2181-01-29 15:08:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,24,24,mEq/L,2181-01-29 15:08:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,INTUBATED,,,2181-01-29 15:08:00,Intubated,Blood,Blood Gas,
+99992,51279,1.35,1.35,m/uL,2144-07-25 13:04:00,Red Blood Cells,Blood,Hematology,789-8
+99992,51301,21.4,21.4,K/uL,2144-07-25 13:04:00,White Blood Cells,Blood,Hematology,804-5
+99992,51464,NEG,,mg/dL,2144-07-25 13:04:00,Bilirubin,Urine,Hematology,5770-3
+99992,51466,NEG,,,2144-07-25 13:04:00,Blood,Urine,Hematology,5794-3
+99992,51478,TR,,mg/dL,2144-07-25 13:04:00,Glucose,Urine,Hematology,5792-7
+99992,51484,NEG,,mg/dL,2144-07-25 13:04:00,Ketone,Urine,Hematology,5797-6
+99992,51486,NEG,,,2144-07-25 13:04:00,Leukocytes,Urine,Hematology,5799-2
+99992,51487,NEG,,,2144-07-25 13:04:00,Nitrite,Urine,Hematology,5802-4
+99992,51491,5.0,5,units,2144-07-25 13:04:00,pH,Urine,Hematology,5803-2
+99992,51492,NEG,,mg/dL,2144-07-25 13:04:00,Protein,Urine,Hematology,5804-0
+99992,51498,1.010,1.01, ,2144-07-25 13:04:00,Specific Gravity,Urine,Hematology,5811-5
+99992,51506,Clear,,,2144-07-25 13:04:00,Urine Appearance,Urine,Hematology,5767-9
+99992,51508,Yellow,,,2144-07-25 13:04:00,Urine Color,Urine,Hematology,5778-6
+99992,51514,NEG,,mg/dL,2144-07-25 13:04:00,Urobilinogen,Urine,Hematology,5818-0
+99992,50810,14,14,%,2144-07-25 13:20:00,"Hematocrit, Calculated",Blood,Blood Gas,20570-8
+99992,50811,4.8,4.8,g/dL,2144-07-25 13:20:00,Hemoglobin,Blood,Blood Gas,718-7
+99992,50822,4.6,4.6,mEq/L,2144-07-25 13:20:00,"Potassium, Whole Blood",Blood,Blood Gas,6298-4
+99992,51221,28.9,28.9,%,2144-07-25 18:02:00,Hematocrit,Blood,Hematology,4544-3
+99992,50868,15,15,mEq/L,2144-07-26 03:38:00,Anion Gap,Blood,Chemistry,1863-0
+99992,50882,22,22,mEq/L,2144-07-26 03:38:00,Bicarbonate,Blood,Chemistry,1963-8
+99992,50893,7.3,7.3,mg/dL,2144-07-26 03:38:00,"Calcium, Total",Blood,Chemistry,2000-8
+99992,50902,104,104,mEq/L,2144-07-26 03:38:00,Chloride,Blood,Chemistry,2075-0
+99992,50912,1.2,1.2,mg/dL,2144-07-26 03:38:00,Creatinine,Blood,Chemistry,2160-0
+99992,50931,110,110,mg/dL,2144-07-26 03:38:00,Glucose,Blood,Chemistry,2345-7
+99992,50960,1.9,1.9,mg/dL,2144-07-26 03:38:00,Magnesium,Blood,Chemistry,2601-3
+99992,50970,7.4,7.4,mg/dL,2144-07-26 03:38:00,Phosphate,Blood,Chemistry,2777-1
+99992,50971,4.9,4.9,mEq/L,2144-07-26 03:38:00,Potassium,Blood,Chemistry,2823-3
+99992,50983,136,136,mEq/L,2144-07-26 03:38:00,Sodium,Blood,Chemistry,2951-2
+99992,51006,56,56,mg/dL,2144-07-26 03:38:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99992,51221,29.3,29.3,%,2144-07-26 03:38:00,Hematocrit,Blood,Hematology,4544-3
+99992,51222,11.0,11,g/dL,2144-07-26 03:38:00,Hemoglobin,Blood,Hematology,718-7
+99992,51248,32.1,32.1,pg,2144-07-26 03:38:00,MCH,Blood,Hematology,785-6
+99992,51249,37.5,37.5,%,2144-07-26 03:38:00,MCHC,Blood,Hematology,786-4
+99992,51250,86,86,fL,2144-07-26 03:38:00,MCV,Blood,Hematology,787-2
+99992,51265,105,105,K/uL,2144-07-26 03:38:00,Platelet Count,Blood,Hematology,777-3
+99992,51277,17.6,17.6,%,2144-07-26 03:38:00,RDW,Blood,Hematology,788-0
+99992,51279,3.43,3.43,m/uL,2144-07-26 03:38:00,Red Blood Cells,Blood,Hematology,789-8
+99992,51301,17.1,17.1,K/uL,2144-07-26 03:38:00,White Blood Cells,Blood,Hematology,804-5
+99992,51221,28.6,28.6,%,2144-07-26 11:40:00,Hematocrit,Blood,Hematology,4544-3
+99992,51221,29.2,29.2,%,2144-07-26 17:19:00,Hematocrit,Blood,Hematology,4544-3
+99992,50868,10,10,mEq/L,2144-07-27 03:30:00,Anion Gap,Blood,Chemistry,1863-0
+99992,50882,26,26,mEq/L,2144-07-27 03:30:00,Bicarbonate,Blood,Chemistry,1963-8
+99992,50893,7.7,7.7,mg/dL,2144-07-27 03:30:00,"Calcium, Total",Blood,Chemistry,2000-8
+99992,50902,105,105,mEq/L,2144-07-27 03:30:00,Chloride,Blood,Chemistry,2075-0
+99992,50912,0.8,0.8,mg/dL,2144-07-27 03:30:00,Creatinine,Blood,Chemistry,2160-0
+99992,50931,123,123,mg/dL,2144-07-27 03:30:00,Glucose,Blood,Chemistry,2345-7
+99992,50960,2.1,2.1,mg/dL,2144-07-27 03:30:00,Magnesium,Blood,Chemistry,2601-3
+99992,50970,4.1,4.1,mg/dL,2144-07-27 03:30:00,Phosphate,Blood,Chemistry,2777-1
+99992,50971,4.3,4.3,mEq/L,2144-07-27 03:30:00,Potassium,Blood,Chemistry,2823-3
+99992,50983,137,137,mEq/L,2144-07-27 03:30:00,Sodium,Blood,Chemistry,2951-2
+99992,51006,44,44,mg/dL,2144-07-27 03:30:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99992,51221,26.1,26.1,%,2144-07-27 03:30:00,Hematocrit,Blood,Hematology,4544-3
+99992,51222,9.5,9.5,g/dL,2144-07-27 03:30:00,Hemoglobin,Blood,Hematology,718-7
+99992,51248,32.0,32,pg,2144-07-27 03:30:00,MCH,Blood,Hematology,785-6
+99992,51249,36.2,36.2,%,2144-07-27 03:30:00,MCHC,Blood,Hematology,786-4
+99991,50868,11,11,mEq/L,2184-12-28 13:40:00,Anion Gap,Blood,Chemistry,1863-0
+99991,50882,23,23,mEq/L,2184-12-28 13:40:00,Bicarbonate,Blood,Chemistry,1963-8
+99991,50893,6.7,6.7,mg/dL,2184-12-28 13:40:00,"Calcium, Total",Blood,Chemistry,2000-8
+99991,50902,112,112,mEq/L,2184-12-28 13:40:00,Chloride,Blood,Chemistry,2075-0
+99991,50912,1.7,1.7,mg/dL,2184-12-28 13:40:00,Creatinine,Blood,Chemistry,2160-0
+99991,50931,138,138,mg/dL,2184-12-28 13:40:00,Glucose,Blood,Chemistry,2345-7
+99991,50960,1.7,1.7,mg/dL,2184-12-28 13:40:00,Magnesium,Blood,Chemistry,2601-3
+99991,50970,2.3,2.3,mg/dL,2184-12-28 13:40:00,Phosphate,Blood,Chemistry,2777-1
+99991,50971,3.4,3.4,mEq/L,2184-12-28 13:40:00,Potassium,Blood,Chemistry,2823-3
+99991,50983,143,143,mEq/L,2184-12-28 13:40:00,Sodium,Blood,Chemistry,2951-2
+99991,51006,26,26,mg/dL,2184-12-28 13:40:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99991,50813,1.3,1.3,mmol/L,2184-12-28 13:51:00,Lactate,Blood,Blood Gas,32693-4
+99991,50868,12,12,mEq/L,2184-12-28 21:45:00,Anion Gap,Blood,Chemistry,1863-0
+99991,50882,22,22,mEq/L,2184-12-28 21:45:00,Bicarbonate,Blood,Chemistry,1963-8
+99991,50893,7.0,7,mg/dL,2184-12-28 21:45:00,"Calcium, Total",Blood,Chemistry,2000-8
+99991,50902,113,113,mEq/L,2184-12-28 21:45:00,Chloride,Blood,Chemistry,2075-0
+99991,50912,1.2,1.2,mg/dL,2184-12-28 21:45:00,Creatinine,Blood,Chemistry,2160-0
+99991,50931,137,137,mg/dL,2184-12-28 21:45:00,Glucose,Blood,Chemistry,2345-7
+99991,50960,1.9,1.9,mg/dL,2184-12-28 21:45:00,Magnesium,Blood,Chemistry,2601-3
+99991,50970,2.6,2.6,mg/dL,2184-12-28 21:45:00,Phosphate,Blood,Chemistry,2777-1
+99991,50971,3.6,3.6,mEq/L,2184-12-28 21:45:00,Potassium,Blood,Chemistry,2823-3
+99991,50983,143,143,mEq/L,2184-12-28 21:45:00,Sodium,Blood,Chemistry,2951-2
+99991,51006,22,22,mg/dL,2184-12-28 21:45:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99991,51143,0,0,%,2184-12-28 21:45:00,Atypical Lymphocytes,Blood,Hematology,733-6
+99991,51144,21,21,%,2184-12-28 21:45:00,Bands,Blood,Hematology,763-3
+99991,51146,0,0,%,2184-12-28 21:45:00,Basophils,Blood,Hematology,704-7
+99991,51200,2,2,%,2184-12-28 21:45:00,Eosinophils,Blood,Hematology,711-2
+99991,51221,26.1,26.1,%,2184-12-28 21:45:00,Hematocrit,Blood,Hematology,4544-3
+99991,51222,9.0,9,g/dL,2184-12-28 21:45:00,Hemoglobin,Blood,Hematology,718-7
+99991,51244,17,17,%,2184-12-28 21:45:00,Lymphocytes,Blood,Hematology,731-0
+99991,51248,29.3,29.3,pg,2184-12-28 21:45:00,MCH,Blood,Hematology,785-6
+99991,51249,34.5,34.5,%,2184-12-28 21:45:00,MCHC,Blood,Hematology,786-4
+99991,51250,85,85,fL,2184-12-28 21:45:00,MCV,Blood,Hematology,787-2
+99991,51251,1,1,%,2184-12-28 21:45:00,Metamyelocytes,Blood,Hematology,28541-1
+99991,51254,22,22,%,2184-12-28 21:45:00,Monocytes,Blood,Hematology,742-7
+99991,51255,1,1,%,2184-12-28 21:45:00,Myelocytes,Blood,Hematology,26498-6
+99991,51256,35,35,%,2184-12-28 21:45:00,Neutrophils,Blood,Hematology,761-7
+99991,51265,188,188,K/uL,2184-12-28 21:45:00,Platelet Count,Blood,Hematology,777-3
+99991,51269,1,1,%,2184-12-28 21:45:00,Promyelocytes,Blood,Hematology,781-5
+99991,51277,13.4,13.4,%,2184-12-28 21:45:00,RDW,Blood,Hematology,788-0
+99991,51279,3.08,3.08,m/uL,2184-12-28 21:45:00,Red Blood Cells,Blood,Hematology,789-8
+99991,51301,4.2,4.2,K/uL,2184-12-28 21:45:00,White Blood Cells,Blood,Hematology,804-5
+99991,50813,1.1,1.1,mmol/L,2184-12-28 22:05:00,Lactate,Blood,Blood Gas,32693-4
+99991,50802,0,0,mEq/L,2184-12-29 03:33:00,Base Excess,Blood,Blood Gas,11555-0
+99991,50804,23,23,mEq/L,2184-12-29 03:33:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99991,50815,4,4,L/min,2184-12-29 03:33:00,O2 Flow,Blood,Blood Gas,3151-8
+99991,50816,40,40,%,2184-12-29 03:33:00,Oxygen,Blood,Blood Gas,19994-3
+99991,50818,35,35,mm Hg,2184-12-29 03:33:00,pCO2,Blood,Blood Gas,11557-6
+99991,50820,7.42,7.42,units,2184-12-29 03:33:00,pH,Blood,Blood Gas,11558-4
+99991,50821,131,131,mm Hg,2184-12-29 03:33:00,pO2,Blood,Blood Gas,11556-8
+99991,50825,36.3,36.3,,2184-12-29 03:33:00,Temperature,Blood,Blood Gas,
+99991,50868,12,12,mEq/L,2184-12-29 04:10:00,Anion Gap,Blood,Chemistry,1863-0
+99991,50882,21,21,mEq/L,2184-12-29 04:10:00,Bicarbonate,Blood,Chemistry,1963-8
+99991,50893,7.2,7.2,mg/dL,2184-12-29 04:10:00,"Calcium, Total",Blood,Chemistry,2000-8
+99991,50902,114,114,mEq/L,2184-12-29 04:10:00,Chloride,Blood,Chemistry,2075-0
+99991,50912,1.0,1,mg/dL,2184-12-29 04:10:00,Creatinine,Blood,Chemistry,2160-0
+99991,50931,159,159,mg/dL,2184-12-29 04:10:00,Glucose,Blood,Chemistry,2345-7
+99991,50960,2.5,2.5,mg/dL,2184-12-29 04:10:00,Magnesium,Blood,Chemistry,2601-3
+99991,50970,2.3,2.3,mg/dL,2184-12-29 04:10:00,Phosphate,Blood,Chemistry,2777-1
+99991,50971,4.2,4.2,mEq/L,2184-12-29 04:10:00,Potassium,Blood,Chemistry,2823-3
+99991,50983,143,143,mEq/L,2184-12-29 04:10:00,Sodium,Blood,Chemistry,2951-2
+99991,51006,19,19,mg/dL,2184-12-29 04:10:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99991,51221,29.8,29.8,%,2184-12-29 04:10:00,Hematocrit,Blood,Hematology,4544-3
+99991,51222,10.4,10.4,g/dL,2184-12-29 04:10:00,Hemoglobin,Blood,Hematology,718-7
+99991,51237,1.0,1,,2184-12-29 04:10:00,INR(PT),Blood,Hematology,5895-7
+99991,51248,29.8,29.8,pg,2184-12-29 04:10:00,MCH,Blood,Hematology,785-6
+99991,51249,35.0,35,%,2184-12-29 04:10:00,MCHC,Blood,Hematology,786-4
+99991,51250,85,85,fL,2184-12-29 04:10:00,MCV,Blood,Hematology,787-2
+99991,51265,273,273,K/uL,2184-12-29 04:10:00,Platelet Count,Blood,Hematology,777-3
+99991,51274,12.1,12.1,sec,2184-12-29 04:10:00,PT,Blood,Hematology,5902-2
+99991,51275,27.8,27.8,sec,2184-12-29 04:10:00,PTT,Blood,Hematology,3173-2
+99991,51277,13.3,13.3,%,2184-12-29 04:10:00,RDW,Blood,Hematology,788-0
+99991,51279,3.50,3.5,m/uL,2184-12-29 04:10:00,Red Blood Cells,Blood,Hematology,789-8
+99991,51301,7.3,7.3,K/uL,2184-12-29 04:10:00,White Blood Cells,Blood,Hematology,804-5
+99991,50801,506,506,mm Hg,2184-12-29 04:13:00,Alveolar-arterial Gradient,Blood,Blood Gas,19991-9
+99992,51250,88,88,fL,2144-07-27 03:30:00,MCV,Blood,Hematology,787-2
+99992,51265,100,100,K/uL,2144-07-27 03:30:00,Platelet Count,Blood,Hematology,777-3
+99992,51277,16.9,16.9,%,2144-07-27 03:30:00,RDW,Blood,Hematology,788-0
+99992,51279,2.96,2.96,m/uL,2144-07-27 03:30:00,Red Blood Cells,Blood,Hematology,789-8
+99992,51301,12.9,12.9,K/uL,2144-07-27 03:30:00,White Blood Cells,Blood,Hematology,804-5
+99992,51221,29.0,29,%,2144-07-27 12:06:00,Hematocrit,Blood,Hematology,4544-3
+99992,51222,10.4,10.4,g/dL,2144-07-27 12:06:00,Hemoglobin,Blood,Hematology,718-7
+99992,51248,31.7,31.7,pg,2144-07-27 12:06:00,MCH,Blood,Hematology,785-6
+99992,51249,35.7,35.7,%,2144-07-27 12:06:00,MCHC,Blood,Hematology,786-4
+99992,51250,89,89,fL,2144-07-27 12:06:00,MCV,Blood,Hematology,787-2
+99992,51265,132,132,K/uL,2144-07-27 12:06:00,Platelet Count,Blood,Hematology,777-3
+99992,51277,16.6,16.6,%,2144-07-27 12:06:00,RDW,Blood,Hematology,788-0
+99992,51279,3.26,3.26,m/uL,2144-07-27 12:06:00,Red Blood Cells,Blood,Hematology,789-8
+99992,51301,16.0,16,K/uL,2144-07-27 12:06:00,White Blood Cells,Blood,Hematology,804-5
+99992,50868,9,9,mEq/L,2144-07-28 04:53:00,Anion Gap,Blood,Chemistry,1863-0
+99992,50882,28,28,mEq/L,2144-07-28 04:53:00,Bicarbonate,Blood,Chemistry,1963-8
+99992,50902,107,107,mEq/L,2144-07-28 04:53:00,Chloride,Blood,Chemistry,2075-0
+99992,50912,0.7,0.7,mg/dL,2144-07-28 04:53:00,Creatinine,Blood,Chemistry,2160-0
+99992,50931,125,125,mg/dL,2144-07-28 04:53:00,Glucose,Blood,Chemistry,2345-7
+99985,51222,8.1,8.1,g/dL,2181-02-03 04:29:00,Hemoglobin,Blood,Hematology,718-7
+99985,51237,1.1,1.1,,2181-02-03 04:29:00,INR(PT),Blood,Hematology,5895-7
+99985,51248,29.2,29.2,pg,2181-02-03 04:29:00,MCH,Blood,Hematology,785-6
+99985,51249,32.8,32.8,%,2181-02-03 04:29:00,MCHC,Blood,Hematology,786-4
+99985,51250,89,89,fL,2181-02-03 04:29:00,MCV,Blood,Hematology,787-2
+99985,51265,509,509,K/uL,2181-02-03 04:29:00,Platelet Count,Blood,Hematology,777-3
+99985,51274,13.0,13,sec,2181-02-03 04:29:00,PT,Blood,Hematology,5902-2
+99985,51275,29.8,29.8,sec,2181-02-03 04:29:00,PTT,Blood,Hematology,3173-2
+99985,51277,15.1,15.1,%,2181-02-03 04:29:00,RDW,Blood,Hematology,788-0
+99985,51279,2.77,2.77,m/uL,2181-02-03 04:29:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,22.4,22.4,K/uL,2181-02-03 04:29:00,White Blood Cells,Blood,Hematology,804-5
+99985,51462,FEW,,,2181-02-03 21:54:00,Amorphous Crystals,Urine,Hematology,8246-1
+99985,51463,NONE,,,2181-02-03 21:54:00,Bacteria,Urine,Hematology,5769-5
+99985,51464,NEG,,mg/dL,2181-02-03 21:54:00,Bilirubin,Urine,Hematology,5770-3
+99985,51466,SM,,,2181-02-03 21:54:00,Blood,Urine,Hematology,5794-3
+99985,51476,<1,,#/hpf,2181-02-03 21:54:00,Epithelial Cells,Urine,Hematology,5787-7
+99985,51478,NEG,,mg/dL,2181-02-03 21:54:00,Glucose,Urine,Hematology,5792-7
+99985,51482,5,5,#/lpf,2181-02-03 21:54:00,Hyaline Casts,Urine,Hematology,5796-8
+99985,51484,TR,,mg/dL,2181-02-03 21:54:00,Ketone,Urine,Hematology,5797-6
+99985,51491,6.0,6,units,2181-02-03 21:54:00,pH,Urine,Hematology,5803-2
+99985,51492,100,100,mg/dL,2181-02-03 21:54:00,Protein,Urine,Hematology,5804-0
+99985,51493,57,57,#/hpf,2181-02-03 21:54:00,RBC,Urine,Hematology,5808-1
+99985,51498,1.029,1.029, ,2181-02-03 21:54:00,Specific Gravity,Urine,Hematology,5811-5
+99985,51501,<1,,#/hpf,2181-02-03 21:54:00,Transitional Epithelial Cells,Urine,Hematology,30089-7
+99985,51506,Hazy,,,2181-02-03 21:54:00,Urine Appearance,Urine,Hematology,5767-9
+99985,51508,Yellow,,,2181-02-03 21:54:00,Urine Color,Urine,Hematology,5778-6
+99985,51512,RARE,,,2181-02-03 21:54:00,Urine Mucous,Urine,Hematology,8247-9
+99985,51514,2,2,mg/dL,2181-02-03 21:54:00,Urobilinogen,Urine,Hematology,5818-0
+99985,51516,12,12,#/hpf,2181-02-03 21:54:00,WBC,Urine,Hematology,5821-4
+99985,51519,NONE,,,2181-02-03 21:54:00,Yeast,Urine,Hematology,5822-2
+99985,50861,66,66,IU/L,2181-02-04 02:36:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,326,326,IU/L,2181-02-04 02:36:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,12,12,mEq/L,2181-02-04 02:36:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,54,54,IU/L,2181-02-04 02:36:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,24,24,mEq/L,2181-02-04 02:36:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,1.2,1.2,mg/dL,2181-02-04 02:36:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50893,7.7,7.7,mg/dL,2181-02-04 02:36:00,"Calcium, Total",Blood,Chemistry,2000-8
+99985,50902,103,103,mEq/L,2181-02-04 02:36:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,1.0,1,mg/dL,2181-02-04 02:36:00,Creatinine,Blood,Chemistry,2160-0
+99985,50931,151,151,mg/dL,2181-02-04 02:36:00,Glucose,Blood,Chemistry,2345-7
+99985,50954,170,170,IU/L,2181-02-04 02:36:00,Lactate Dehydrogenase (LD),Blood,Chemistry,2532-0
+99985,50960,2.3,2.3,mg/dL,2181-02-04 02:36:00,Magnesium,Blood,Chemistry,2601-3
+99985,50970,2.5,2.5,mg/dL,2181-02-04 02:36:00,Phosphate,Blood,Chemistry,2777-1
+99985,50971,3.7,3.7,mEq/L,2181-02-04 02:36:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,135,135,mEq/L,2181-02-04 02:36:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,23,23,mg/dL,2181-02-04 02:36:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51221,24.9,24.9,%,2181-02-04 02:36:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,7.9,7.9,g/dL,2181-02-04 02:36:00,Hemoglobin,Blood,Hematology,718-7
+99985,51248,28.3,28.3,pg,2181-02-04 02:36:00,MCH,Blood,Hematology,785-6
+99985,51249,31.8,31.8,%,2181-02-04 02:36:00,MCHC,Blood,Hematology,786-4
+99985,51250,89,89,fL,2181-02-04 02:36:00,MCV,Blood,Hematology,787-2
+99985,51265,519,519,K/uL,2181-02-04 02:36:00,Platelet Count,Blood,Hematology,777-3
+99985,51277,14.8,14.8,%,2181-02-04 02:36:00,RDW,Blood,Hematology,788-0
+99985,51279,2.80,2.8,m/uL,2181-02-04 02:36:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,24.7,24.7,K/uL,2181-02-04 02:36:00,White Blood Cells,Blood,Hematology,804-5
+99985,50861,57,57,IU/L,2181-02-05 04:17:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,276,276,IU/L,2181-02-05 04:17:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,11,11,mEq/L,2181-02-05 04:17:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,47,47,IU/L,2181-02-05 04:17:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,25,25,mEq/L,2181-02-05 04:17:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.5,0.5,mg/dL,2181-02-05 04:17:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50893,7.5,7.5,mg/dL,2181-02-05 04:17:00,"Calcium, Total",Blood,Chemistry,2000-8
+99985,50902,102,102,mEq/L,2181-02-05 04:17:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,0.8,0.8,mg/dL,2181-02-05 04:17:00,Creatinine,Blood,Chemistry,2160-0
+99985,50931,131,131,mg/dL,2181-02-05 04:17:00,Glucose,Blood,Chemistry,2345-7
+99985,50954,184,184,IU/L,2181-02-05 04:17:00,Lactate Dehydrogenase (LD),Blood,Chemistry,2532-0
+99985,50960,2.4,2.4,mg/dL,2181-02-05 04:17:00,Magnesium,Blood,Chemistry,2601-3
+99985,50970,2.7,2.7,mg/dL,2181-02-05 04:17:00,Phosphate,Blood,Chemistry,2777-1
+99985,50971,3.6,3.6,mEq/L,2181-02-05 04:17:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,134,134,mEq/L,2181-02-05 04:17:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,23,23,mg/dL,2181-02-05 04:17:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51221,23.9,23.9,%,2181-02-05 04:17:00,Hematocrit,Blood,Hematology,4544-3
+99999,51221,28.2,28.2,%,2118-01-02 05:30:00,Hematocrit,Blood,Hematology,4544-3
+99999,51222,9.2,9.2,g/dL,2118-01-02 05:30:00,Hemoglobin,Blood,Hematology,718-7
+99999,51248,30.5,30.5,pg,2118-01-02 05:30:00,MCH,Blood,Hematology,785-6
+99999,51249,32.7,32.7,%,2118-01-02 05:30:00,MCHC,Blood,Hematology,786-4
+99999,51250,93,93,fL,2118-01-02 05:30:00,MCV,Blood,Hematology,787-2
+99999,51265,193,193,K/uL,2118-01-02 05:30:00,Platelet Count,Blood,Hematology,777-3
+99999,51277,12.9,12.9,%,2118-01-02 05:30:00,RDW,Blood,Hematology,788-0
+99999,51279,3.03,3.03,m/uL,2118-01-02 05:30:00,Red Blood Cells,Blood,Hematology,789-8
+99999,51301,9.0,9,K/uL,2118-01-02 05:30:00,White Blood Cells,Blood,Hematology,804-5
+99985,51222,8.8,8.8,g/dL,2181-02-12 05:56:00,Hemoglobin,Blood,Hematology,718-7
+99985,51248,29.7,29.7,pg,2181-02-12 05:56:00,MCH,Blood,Hematology,785-6
+99985,51249,32.6,32.6,%,2181-02-12 05:56:00,MCHC,Blood,Hematology,786-4
+99985,51250,91,91,fL,2181-02-12 05:56:00,MCV,Blood,Hematology,787-2
+99985,51265,823,823,K/uL,2181-02-12 05:56:00,Platelet Count,Blood,Hematology,777-3
+99985,51277,17.3,17.3,%,2181-02-12 05:56:00,RDW,Blood,Hematology,788-0
+99985,51279,2.97,2.97,m/uL,2181-02-12 05:56:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,12.4,12.4,K/uL,2181-02-12 05:56:00,White Blood Cells,Blood,Hematology,804-5
+99985,50861,41,41,IU/L,2181-02-16 12:21:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,166,166,IU/L,2181-02-16 12:21:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,19,19,mEq/L,2181-02-16 12:21:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,41,41,IU/L,2181-02-16 12:21:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,24,24,mEq/L,2181-02-16 12:21:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.5,0.5,mg/dL,2181-02-16 12:21:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50889,39.4,39.4,mg/L,2181-02-16 12:21:00,C-Reactive Protein,Blood,Chemistry,1988-5
+99985,50902,98,98,mEq/L,2181-02-16 12:21:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,1.0,1,mg/dL,2181-02-16 12:21:00,Creatinine,Blood,Chemistry,2160-0
+99985,50971,4.4,4.4,mEq/L,2181-02-16 12:21:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,137,137,mEq/L,2181-02-16 12:21:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,10,10,mg/dL,2181-02-16 12:21:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51146,0.7,0.7,%,2181-02-16 12:21:00,Basophils,Blood,Hematology,704-7
+99985,51200,4.9,4.9,%,2181-02-16 12:21:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,37.3,37.3,%,2181-02-16 12:21:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,11.9,11.9,g/dL,2181-02-16 12:21:00,Hemoglobin,Blood,Hematology,718-7
+99985,51244,14.4,14.4,%,2181-02-16 12:21:00,Lymphocytes,Blood,Hematology,731-0
+99985,51248,30.2,30.2,pg,2181-02-16 12:21:00,MCH,Blood,Hematology,785-6
+99985,51249,32.0,32,%,2181-02-16 12:21:00,MCHC,Blood,Hematology,786-4
+99985,51250,94,94,fL,2181-02-16 12:21:00,MCV,Blood,Hematology,787-2
+99985,51254,7.6,7.6,%,2181-02-16 12:21:00,Monocytes,Blood,Hematology,742-7
+99985,51256,72.4,72.4,%,2181-02-16 12:21:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,763,763,K/uL,2181-02-16 12:21:00,Platelet Count,Blood,Hematology,777-3
+99985,51277,17.5,17.5,%,2181-02-16 12:21:00,RDW,Blood,Hematology,788-0
+99985,51279,3.95,3.95,m/uL,2181-02-16 12:21:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51288,112,112,mm/hr,2181-02-16 12:21:00,Sedimentation Rate,Blood,Hematology,4537-7
+99985,51301,10.2,10.2,K/uL,2181-02-16 12:21:00,White Blood Cells,Blood,Hematology,804-5
+99985,50861,25,25,IU/L,2181-02-22 12:30:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,124,124,IU/L,2181-02-22 12:30:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,16,16,mEq/L,2181-02-22 12:30:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,27,27,IU/L,2181-02-22 12:30:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,26,26,mEq/L,2181-02-22 12:30:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.4,0.4,mg/dL,2181-02-22 12:30:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50889,33.1,33.1,mg/L,2181-02-22 12:30:00,C-Reactive Protein,Blood,Chemistry,1988-5
+99985,50902,100,100,mEq/L,2181-02-22 12:30:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,1.0,1,mg/dL,2181-02-22 12:30:00,Creatinine,Blood,Chemistry,2160-0
+99985,50920,See Comments,,,2181-02-22 12:30:00,Estimated GFR (MDRD equation),Blood,Chemistry,33914-3
+99985,50971,4.1,4.1,mEq/L,2181-02-22 12:30:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,138,138,mEq/L,2181-02-22 12:30:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,15,15,mg/dL,2181-02-22 12:30:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51146,0.6,0.6,%,2181-02-22 12:30:00,Basophils,Blood,Hematology,704-7
+99985,51200,6.8,6.8,%,2181-02-22 12:30:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,37.3,37.3,%,2181-02-22 12:30:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,11.9,11.9,g/dL,2181-02-22 12:30:00,Hemoglobin,Blood,Hematology,718-7
+99985,51244,15.4,15.4,%,2181-02-22 12:30:00,Lymphocytes,Blood,Hematology,731-0
+99985,51248,30.1,30.1,pg,2181-02-22 12:30:00,MCH,Blood,Hematology,785-6
+99985,51249,31.9,31.9,%,2181-02-22 12:30:00,MCHC,Blood,Hematology,786-4
+99985,51250,94,94,fL,2181-02-22 12:30:00,MCV,Blood,Hematology,787-2
+99985,51254,7.0,7,%,2181-02-22 12:30:00,Monocytes,Blood,Hematology,742-7
+99985,51256,70.3,70.3,%,2181-02-22 12:30:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,557,557,K/uL,2181-02-22 12:30:00,Platelet Count,Blood,Hematology,777-3
+99985,51277,17.1,17.1,%,2181-02-22 12:30:00,RDW,Blood,Hematology,788-0
+99985,51279,3.95,3.95,m/uL,2181-02-22 12:30:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51288,90,90,mm/hr,2181-02-22 12:30:00,Sedimentation Rate,Blood,Hematology,4537-7
+99985,51301,9.9,9.9,K/uL,2181-02-22 12:30:00,White Blood Cells,Blood,Hematology,804-5
+99985,50889,4.2,4.2,mg/L,2181-03-06 08:35:00,C-Reactive Protein,Blood,Chemistry,1988-5
+99985,51146,0.9,0.9,%,2181-03-06 08:35:00,Basophils,Blood,Hematology,704-7
+99985,51200,5.0,5,%,2181-03-06 08:35:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,35.4,35.4,%,2181-03-06 08:35:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,11.5,11.5,g/dL,2181-03-06 08:35:00,Hemoglobin,Blood,Hematology,718-7
+99985,51244,16.6,16.6,%,2181-03-06 08:35:00,Lymphocytes,Blood,Hematology,731-0
+99985,51248,30.3,30.3,pg,2181-03-06 08:35:00,MCH,Blood,Hematology,785-6
+99985,51249,32.5,32.5,%,2181-03-06 08:35:00,MCHC,Blood,Hematology,786-4
+99985,51250,93,93,fL,2181-03-06 08:35:00,MCV,Blood,Hematology,787-2
+99985,51254,4.9,4.9,%,2181-03-06 08:35:00,Monocytes,Blood,Hematology,742-7
+99985,51256,72.7,72.7,%,2181-03-06 08:35:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,511,511,K/uL,2181-03-06 08:35:00,Platelet Count,Blood,Hematology,777-3
+99985,51277,16.1,16.1,%,2181-03-06 08:35:00,RDW,Blood,Hematology,788-0
+99985,51279,3.80,3.8,m/uL,2181-03-06 08:35:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51288,75,75,mm/hr,2181-03-06 08:35:00,Sedimentation Rate,Blood,Hematology,4537-7
+99985,51301,10.1,10.1,K/uL,2181-03-06 08:35:00,White Blood Cells,Blood,Hematology,804-5
+99985,50861,25,25,IU/L,2182-03-14 12:25:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50862,4.5,4.5,g/dL,2182-03-14 12:25:00,Albumin,Blood,Chemistry,1751-7
+99985,50868,13,13,mEq/L,2182-03-14 12:25:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,24,24,IU/L,2182-03-14 12:25:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,30,30,mEq/L,2182-03-14 12:25:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50893,9.8,9.8,mg/dL,2182-03-14 12:25:00,"Calcium, Total",Blood,Chemistry,2000-8
+99985,50902,103,103,mEq/L,2182-03-14 12:25:00,Chloride,Blood,Chemistry,2075-0
+99985,50903,3.1,3.1,Ratio,2182-03-14 12:25:00,Cholesterol Ratio (Total/HDL),Blood,Chemistry,9322-9
+99985,50904,63,63,mg/dL,2182-03-14 12:25:00,"Cholesterol, HDL",Blood,Chemistry,2085-9
+99985,50905,111,111,mg/dL,2182-03-14 12:25:00,"Cholesterol, LDL, Calculated",Blood,Chemistry,2090-9
+99985,50907,197,197,mg/dL,2182-03-14 12:25:00,"Cholesterol, Total",Blood,Chemistry,2093-3
+99985,50912,1.1,1.1,mg/dL,2182-03-14 12:25:00,Creatinine,Blood,Chemistry,2160-0
+99985,50920,See Comments,,,2182-03-14 12:25:00,Estimated GFR (MDRD equation),Blood,Chemistry,33914-3
+99985,50931,85,85,mg/dL,2182-03-14 12:25:00,Glucose,Blood,Chemistry,2345-7
+99985,50971,4.4,4.4,mEq/L,2182-03-14 12:25:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,142,142,mEq/L,2182-03-14 12:25:00,Sodium,Blood,Chemistry,2951-2
+99985,50993,1.3,1.3,uIU/mL,2182-03-14 12:25:00,Thyroid Stimulating Hormone,Blood,Chemistry,3016-3
+99985,51000,115,115,mg/dL,2182-03-14 12:25:00,Triglycerides,Blood,Chemistry,1644-4
+99985,51006,23,23,mg/dL,2182-03-14 12:25:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51146,0.3,0.3,%,2182-03-14 12:25:00,Basophils,Blood,Hematology,704-7
+99985,51200,2.2,2.2,%,2182-03-14 12:25:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,38.0,38,%,2182-03-14 12:25:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,12.6,12.6,g/dL,2182-03-14 12:25:00,Hemoglobin,Blood,Hematology,718-7
+99985,50882,25,25,mEq/L,2181-01-27 00:30:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.5,0.5,mg/dL,2181-01-27 00:30:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50887,HOLD,,,2181-01-27 00:30:00,Blue Top Hold,Blood,Chemistry,
+99985,50893,9.3,9.3,mg/dL,2181-01-27 00:30:00,"Calcium, Total",Blood,Chemistry,2000-8
+99985,50902,95,95,mEq/L,2181-01-27 00:30:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,1.2,1.2,mg/dL,2181-01-27 00:30:00,Creatinine,Blood,Chemistry,2160-0
+99985,50920,See Comments,,,2181-01-27 00:30:00,Estimated GFR (MDRD equation),Blood,Chemistry,33914-3
+99985,50931,130,130,mg/dL,2181-01-27 00:30:00,Glucose,Blood,Chemistry,2345-7
+99985,50960,1.9,1.9,mg/dL,2181-01-27 00:30:00,Magnesium,Blood,Chemistry,2601-3
+99985,50970,2.9,2.9,mg/dL,2181-01-27 00:30:00,Phosphate,Blood,Chemistry,2777-1
+99985,50971,4.7,4.7,mEq/L,2181-01-27 00:30:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,135,135,mEq/L,2181-01-27 00:30:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,18,18,mg/dL,2181-01-27 00:30:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51146,0.2,0.2,%,2181-01-27 00:30:00,Basophils,Blood,Hematology,704-7
+99985,51200,0.2,0.2,%,2181-01-27 00:30:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,37.6,37.6,%,2181-01-27 00:30:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,12.9,12.9,g/dL,2181-01-27 00:30:00,Hemoglobin,Blood,Hematology,718-7
+99985,51244,8.8,8.8,%,2181-01-27 00:30:00,Lymphocytes,Blood,Hematology,731-0
+99985,51248,30.1,30.1,pg,2181-01-27 00:30:00,MCH,Blood,Hematology,785-6
+99985,51249,34.4,34.4,%,2181-01-27 00:30:00,MCHC,Blood,Hematology,786-4
+99985,51250,88,88,fL,2181-01-27 00:30:00,MCV,Blood,Hematology,787-2
+99985,51254,4.5,4.5,%,2181-01-27 00:30:00,Monocytes,Blood,Hematology,742-7
+99985,51256,86.3,86.3,%,2181-01-27 00:30:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,349,349,K/uL,2181-01-27 00:30:00,Platelet Count,Blood,Hematology,777-3
+99985,51277,13.7,13.7,%,2181-01-27 00:30:00,RDW,Blood,Hematology,788-0
+99985,51279,4.29,4.29,m/uL,2181-01-27 00:30:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,17.9,17.9,K/uL,2181-01-27 00:30:00,White Blood Cells,Blood,Hematology,804-5
+99985,50813,1.9,1.9,mmol/L,2181-01-27 00:32:00,Lactate,Blood,Blood Gas,32693-4
+99985,51463,FEW,,,2181-01-27 12:59:00,Bacteria,Urine,Hematology,5769-5
+99985,51464,NEG,,mg/dL,2181-01-27 12:59:00,Bilirubin,Urine,Hematology,5770-3
+99985,51466,NEG,,,2181-01-27 12:59:00,Blood,Urine,Hematology,5794-3
+99985,51476,<1,,#/hpf,2181-01-27 12:59:00,Epithelial Cells,Urine,Hematology,5787-7
+99985,51478,NEG,,mg/dL,2181-01-27 12:59:00,Glucose,Urine,Hematology,5792-7
+99985,51484,NEG,,mg/dL,2181-01-27 12:59:00,Ketone,Urine,Hematology,5797-6
+99985,51486,NEG,,,2181-01-27 12:59:00,Leukocytes,Urine,Hematology,5799-2
+99985,51487,NEG,,,2181-01-27 12:59:00,Nitrite,Urine,Hematology,5802-4
+99985,51491,5.5,5.5,units,2181-01-27 12:59:00,pH,Urine,Hematology,5803-2
+99985,51492,TR,,mg/dL,2181-01-27 12:59:00,Protein,Urine,Hematology,5804-0
+99985,51493,1,1,#/hpf,2181-01-27 12:59:00,RBC,Urine,Hematology,5808-1
+99985,51498,1.020,1.02, ,2181-01-27 12:59:00,Specific Gravity,Urine,Hematology,5811-5
+99985,51506,Clear,,,2181-01-27 12:59:00,Urine Appearance,Urine,Hematology,5767-9
+99985,51508,Yellow,,,2181-01-27 12:59:00,Urine Color,Urine,Hematology,5778-6
+99985,51512,RARE,,,2181-01-27 12:59:00,Urine Mucous,Urine,Hematology,8247-9
+99985,51514,NEG,,mg/dL,2181-01-27 12:59:00,Urobilinogen,Urine,Hematology,5818-0
+99985,51516,2,2,#/hpf,2181-01-27 12:59:00,WBC,Urine,Hematology,5821-4
+99985,51519,NONE,,,2181-01-27 12:59:00,Yeast,Urine,Hematology,5822-2
+99985,50861,53,53,IU/L,2181-01-28 07:53:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,96,96,IU/L,2181-01-28 07:53:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,11,11,mEq/L,2181-01-28 07:53:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,49,49,IU/L,2181-01-28 07:53:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,24,24,mEq/L,2181-01-28 07:53:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.6,0.6,mg/dL,2181-01-28 07:53:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50893,8.0,8,mg/dL,2181-01-28 07:53:00,"Calcium, Total",Blood,Chemistry,2000-8
+99985,50902,103,103,mEq/L,2181-01-28 07:53:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,1.1,1.1,mg/dL,2181-01-28 07:53:00,Creatinine,Blood,Chemistry,2160-0
+99985,50931,107,107,mg/dL,2181-01-28 07:53:00,Glucose,Blood,Chemistry,2345-7
+99985,50960,2.0,2,mg/dL,2181-01-28 07:53:00,Magnesium,Blood,Chemistry,2601-3
+99985,50971,4.3,4.3,mEq/L,2181-01-28 07:53:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,134,134,mEq/L,2181-01-28 07:53:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,18,18,mg/dL,2181-01-28 07:53:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51146,0.1,0.1,%,2181-01-28 07:53:00,Basophils,Blood,Hematology,704-7
+99985,51200,0.1,0.1,%,2181-01-28 07:53:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,32.0,32,%,2181-01-28 07:53:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,10.9,10.9,g/dL,2181-01-28 07:53:00,Hemoglobin,Blood,Hematology,718-7
+99985,51237,1.1,1.1,,2181-01-28 07:53:00,INR(PT),Blood,Hematology,5895-7
+99985,51244,6.0,6,%,2181-01-28 07:53:00,Lymphocytes,Blood,Hematology,731-0
+99985,51248,30.0,30,pg,2181-01-28 07:53:00,MCH,Blood,Hematology,785-6
+99985,51249,34.1,34.1,%,2181-01-28 07:53:00,MCHC,Blood,Hematology,786-4
+99985,51250,88,88,fL,2181-01-28 07:53:00,MCV,Blood,Hematology,787-2
+99985,51254,1.9,1.9,%,2181-01-28 07:53:00,Monocytes,Blood,Hematology,742-7
+99985,51256,92.1,92.1,%,2181-01-28 07:53:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,247,247,K/uL,2181-01-28 07:53:00,Platelet Count,Blood,Hematology,777-3
+99985,51274,13.3,13.3,sec,2181-01-28 07:53:00,PT,Blood,Hematology,5902-2
+99985,51275,39.5,39.5,sec,2181-01-28 07:53:00,PTT,Blood,Hematology,3173-2
+99985,51277,14.1,14.1,%,2181-01-28 07:53:00,RDW,Blood,Hematology,788-0
+99985,51279,3.63,3.63,m/uL,2181-01-28 07:53:00,Red Blood Cells,Blood,Hematology,789-8
+99991,51222,9.3,9.3,g/dL,2185-01-01 04:53:00,Hemoglobin,Blood,Hematology,718-7
+99991,51248,28.7,28.7,pg,2185-01-01 04:53:00,MCH,Blood,Hematology,785-6
+99991,51249,34.2,34.2,%,2185-01-01 04:53:00,MCHC,Blood,Hematology,786-4
+99991,51250,84,84,fL,2185-01-01 04:53:00,MCV,Blood,Hematology,787-2
+99991,51265,396,396,K/uL,2185-01-01 04:53:00,Platelet Count,Blood,Hematology,777-3
+99991,51277,13.2,13.2,%,2185-01-01 04:53:00,RDW,Blood,Hematology,788-0
+99991,51279,3.23,3.23,m/uL,2185-01-01 04:53:00,Red Blood Cells,Blood,Hematology,789-8
+99991,51301,9.5,9.5,K/uL,2185-01-01 04:53:00,White Blood Cells,Blood,Hematology,804-5
+99991,50868,16,16,mEq/L,2185-01-03 06:15:00,Anion Gap,Blood,Chemistry,1863-0
+99991,50882,25,25,mEq/L,2185-01-03 06:15:00,Bicarbonate,Blood,Chemistry,1963-8
+99991,50893,8.1,8.1,mg/dL,2185-01-03 06:15:00,"Calcium, Total",Blood,Chemistry,2000-8
+99991,50902,107,107,mEq/L,2185-01-03 06:15:00,Chloride,Blood,Chemistry,2075-0
+99991,50912,0.7,0.7,mg/dL,2185-01-03 06:15:00,Creatinine,Blood,Chemistry,2160-0
+99991,50931,118,118,mg/dL,2185-01-03 06:15:00,Glucose,Blood,Chemistry,2345-7
+99991,50960,2.0,2,mg/dL,2185-01-03 06:15:00,Magnesium,Blood,Chemistry,2601-3
+99991,50970,2.9,2.9,mg/dL,2185-01-03 06:15:00,Phosphate,Blood,Chemistry,2777-1
+99991,50971,3.7,3.7,mEq/L,2185-01-03 06:15:00,Potassium,Blood,Chemistry,2823-3
+99991,50983,144,144,mEq/L,2185-01-03 06:15:00,Sodium,Blood,Chemistry,2951-2
+99991,51006,15,15,mg/dL,2185-01-03 06:15:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99991,50868,12,12,mEq/L,2185-01-04 06:10:00,Anion Gap,Blood,Chemistry,1863-0
+99991,50882,24,24,mEq/L,2185-01-04 06:10:00,Bicarbonate,Blood,Chemistry,1963-8
+99991,50893,8.3,8.3,mg/dL,2185-01-04 06:10:00,"Calcium, Total",Blood,Chemistry,2000-8
+99991,50902,108,108,mEq/L,2185-01-04 06:10:00,Chloride,Blood,Chemistry,2075-0
+99991,50912,0.8,0.8,mg/dL,2185-01-04 06:10:00,Creatinine,Blood,Chemistry,2160-0
+99991,50931,107,107,mg/dL,2185-01-04 06:10:00,Glucose,Blood,Chemistry,2345-7
+99991,50960,2.0,2,mg/dL,2185-01-04 06:10:00,Magnesium,Blood,Chemistry,2601-3
+99991,50970,3.5,3.5,mg/dL,2185-01-04 06:10:00,Phosphate,Blood,Chemistry,2777-1
+99991,50971,3.6,3.6,mEq/L,2185-01-04 06:10:00,Potassium,Blood,Chemistry,2823-3
+99991,50983,140,140,mEq/L,2185-01-04 06:10:00,Sodium,Blood,Chemistry,2951-2
+99991,51006,13,13,mg/dL,2185-01-04 06:10:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99991,51221,26.5,26.5,%,2185-01-04 06:10:00,Hematocrit,Blood,Hematology,4544-3
+99991,51222,9.3,9.3,g/dL,2185-01-04 06:10:00,Hemoglobin,Blood,Hematology,718-7
+99991,51248,29.3,29.3,pg,2185-01-04 06:10:00,MCH,Blood,Hematology,785-6
+99991,51249,35.2,35.2,%,2185-01-04 06:10:00,MCHC,Blood,Hematology,786-4
+99991,51250,83,83,fL,2185-01-04 06:10:00,MCV,Blood,Hematology,787-2
+99991,51265,425,425,K/uL,2185-01-04 06:10:00,Platelet Count,Blood,Hematology,777-3
+99991,51277,14.4,14.4,%,2185-01-04 06:10:00,RDW,Blood,Hematology,788-0
+99991,51279,3.19,3.19,m/uL,2185-01-04 06:10:00,Red Blood Cells,Blood,Hematology,789-8
+99991,51301,10.6,10.6,K/uL,2185-01-04 06:10:00,White Blood Cells,Blood,Hematology,804-5
+99992,50861,32,32,IU/L,2144-07-25 13:04:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99992,50862,2.0,2,g/dL,2144-07-25 13:04:00,Albumin,Blood,Chemistry,1751-7
+99992,50863,55,55,IU/L,2144-07-25 13:04:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99992,50868,14,14,mEq/L,2144-07-25 13:04:00,Anion Gap,Blood,Chemistry,1863-0
+99992,50878,20,20,IU/L,2144-07-25 13:04:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99992,50882,22,22,mEq/L,2144-07-25 13:04:00,Bicarbonate,Blood,Chemistry,1963-8
+99992,50883,0.1,0.1,mg/dL,2144-07-25 13:04:00,"Bilirubin, Direct",Blood,Chemistry,1968-7
+99992,50884,0.1,0.1,mg/dL,2144-07-25 13:04:00,"Bilirubin, Indirect",Blood,Chemistry,1971-1
+99992,50885,0.2,0.2,mg/dL,2144-07-25 13:04:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99992,50893,7.1,7.1,mg/dL,2144-07-25 13:04:00,"Calcium, Total",Blood,Chemistry,2000-8
+99992,50902,105,105,mEq/L,2144-07-25 13:04:00,Chloride,Blood,Chemistry,2075-0
+99992,50912,1.2,1.2,mg/dL,2144-07-25 13:04:00,Creatinine,Blood,Chemistry,2160-0
+99992,50915,664,664,ng/mL,2144-07-25 13:04:00,D-Dimer,Blood,Chemistry,
+99992,50931,206,206,mg/dL,2144-07-25 13:04:00,Glucose,Blood,Chemistry,2345-7
+99992,50935,160,160,mg/dL,2144-07-25 13:04:00,Haptoglobin,Blood,Chemistry,4542-7
+99992,50960,1.8,1.8,mg/dL,2144-07-25 13:04:00,Magnesium,Blood,Chemistry,2601-3
+99992,50970,6.0,6,mg/dL,2144-07-25 13:04:00,Phosphate,Blood,Chemistry,2777-1
+99992,50971,4.9,4.9,mEq/L,2144-07-25 13:04:00,Potassium,Blood,Chemistry,2823-3
+99992,50983,136,136,mEq/L,2144-07-25 13:04:00,Sodium,Blood,Chemistry,2951-2
+99992,51006,56,56,mg/dL,2144-07-25 13:04:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99992,51146,0.3,0.3,%,2144-07-25 13:04:00,Basophils,Blood,Hematology,704-7
+99992,51200,0.7,0.7,%,2144-07-25 13:04:00,Eosinophils,Blood,Hematology,711-2
+99992,51221,12.9,12.9,%,2144-07-25 13:04:00,Hematocrit,Blood,Hematology,4544-3
+99992,51222,4.7,4.7,g/dL,2144-07-25 13:04:00,Hemoglobin,Blood,Hematology,718-7
+99992,51237,1.1,1.1,,2144-07-25 13:04:00,INR(PT),Blood,Hematology,5895-7
+99992,51244,9.1,9.1,%,2144-07-25 13:04:00,Lymphocytes,Blood,Hematology,731-0
+99992,51248,34.5,34.5,pg,2144-07-25 13:04:00,MCH,Blood,Hematology,785-6
+99992,51249,36.4,36.4,%,2144-07-25 13:04:00,MCHC,Blood,Hematology,786-4
+99992,51250,95,95,fL,2144-07-25 13:04:00,MCV,Blood,Hematology,787-2
+99992,51254,5.0,5,%,2144-07-25 13:04:00,Monocytes,Blood,Hematology,742-7
+99992,51256,84.9,84.9,%,2144-07-25 13:04:00,Neutrophils,Blood,Hematology,761-7
+99992,51265,188,188,K/uL,2144-07-25 13:04:00,Platelet Count,Blood,Hematology,777-3
+99992,51274,12.9,12.9,sec,2144-07-25 13:04:00,PT,Blood,Hematology,5902-2
+99992,51275,43.9,43.9,sec,2144-07-25 13:04:00,PTT,Blood,Hematology,3173-2
+99985,50804,24,24,mEq/L,2181-01-30 16:13:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,INTUBATED,,,2181-01-30 16:13:00,Intubated,Blood,Blood Gas,
+99985,50816,50,50,%,2181-01-30 16:13:00,Oxygen,Blood,Blood Gas,19994-3
+99985,50818,38,38,mm Hg,2181-01-30 16:13:00,pCO2,Blood,Blood Gas,11557-6
+99985,50819,8,8,,2181-01-30 16:13:00,PEEP,Blood,Blood Gas,20077-4
+99985,50820,7.39,7.39,units,2181-01-30 16:13:00,pH,Blood,Blood Gas,11558-4
+99985,50821,66,66,mm Hg,2181-01-30 16:13:00,pO2,Blood,Blood Gas,11556-8
+99985,50825,38.1,38.1,,2181-01-30 16:13:00,Temperature,Blood,Blood Gas,
+99985,50826,400,400,,2181-01-30 16:13:00,Tidal Volume,Blood,Blood Gas,20112-9
+99985,50827,24/,,,2181-01-30 16:13:00,Ventilation Rate,Blood,Blood Gas,
+99985,51463,FEW,,,2181-01-30 22:17:00,Bacteria,Urine,Hematology,5769-5
+99985,51464,NEG,,mg/dL,2181-01-30 22:17:00,Bilirubin,Urine,Hematology,5770-3
+99985,51466,SM,,,2181-01-30 22:17:00,Blood,Urine,Hematology,5794-3
+99985,51476,0,0,#/hpf,2181-01-30 22:17:00,Epithelial Cells,Urine,Hematology,5787-7
+99985,51478,NEG,,mg/dL,2181-01-30 22:17:00,Glucose,Urine,Hematology,5792-7
+99985,51484,10,10,mg/dL,2181-01-30 22:17:00,Ketone,Urine,Hematology,5797-6
+99985,51486,NEG,,,2181-01-30 22:17:00,Leukocytes,Urine,Hematology,5799-2
+99985,51487,NEG,,,2181-01-30 22:17:00,Nitrite,Urine,Hematology,5802-4
+99985,51491,6.0,6,units,2181-01-30 22:17:00,pH,Urine,Hematology,5803-2
+99985,51492,30,30,mg/dL,2181-01-30 22:17:00,Protein,Urine,Hematology,5804-0
+99985,51493,23,23,#/hpf,2181-01-30 22:17:00,RBC,Urine,Hematology,5808-1
+99985,51498,1.021,1.021, ,2181-01-30 22:17:00,Specific Gravity,Urine,Hematology,5811-5
+99985,51506,Clear,,,2181-01-30 22:17:00,Urine Appearance,Urine,Hematology,5767-9
+99985,51508,Yellow,,,2181-01-30 22:17:00,Urine Color,Urine,Hematology,5778-6
+99985,51512,OCC,,,2181-01-30 22:17:00,Urine Mucous,Urine,Hematology,8247-9
+99985,51514,NEG,,mg/dL,2181-01-30 22:17:00,Urobilinogen,Urine,Hematology,5818-0
+99985,51516,8,8,#/hpf,2181-01-30 22:17:00,WBC,Urine,Hematology,5821-4
+99985,51519,NONE,,,2181-01-30 22:17:00,Yeast,Urine,Hematology,5822-2
+99985,50861,66,66,IU/L,2181-01-31 03:59:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,307,307,IU/L,2181-01-31 03:59:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,13,13,mEq/L,2181-01-31 03:59:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,106,106,IU/L,2181-01-31 03:59:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,21,21,mEq/L,2181-01-31 03:59:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,1.1,1.1,mg/dL,2181-01-31 03:59:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50893,7.4,7.4,mg/dL,2181-01-31 03:59:00,"Calcium, Total",Blood,Chemistry,2000-8
+99985,50902,103,103,mEq/L,2181-01-31 03:59:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,0.9,0.9,mg/dL,2181-01-31 03:59:00,Creatinine,Blood,Chemistry,2160-0
+99985,50931,122,122,mg/dL,2181-01-31 03:59:00,Glucose,Blood,Chemistry,2345-7
+99985,50954,215,215,IU/L,2181-01-31 03:59:00,Lactate Dehydrogenase (LD),Blood,Chemistry,2532-0
+99985,50956,13,13,IU/L,2181-01-31 03:59:00,Lipase,Blood,Chemistry,3040-3
+99985,50960,1.9,1.9,mg/dL,2181-01-31 03:59:00,Magnesium,Blood,Chemistry,2601-3
+99985,50963,574,574,pg/mL,2181-01-31 03:59:00,NTproBNP,Blood,Chemistry,33762-6
+99985,50970,2.1,2.1,mg/dL,2181-01-31 03:59:00,Phosphate,Blood,Chemistry,2777-1
+99985,50971,3.4,3.4,mEq/L,2181-01-31 03:59:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,134,134,mEq/L,2181-01-31 03:59:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,17,17,mg/dL,2181-01-31 03:59:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51146,0.4,0.4,%,2181-01-31 03:59:00,Basophils,Blood,Hematology,704-7
+99985,51200,1.0,1,%,2181-01-31 03:59:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,28.1,28.1,%,2181-01-31 03:59:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,9.2,9.2,g/dL,2181-01-31 03:59:00,Hemoglobin,Blood,Hematology,718-7
+99985,51244,12.3,12.3,%,2181-01-31 03:59:00,Lymphocytes,Blood,Hematology,731-0
+99985,51248,29.4,29.4,pg,2181-01-31 03:59:00,MCH,Blood,Hematology,785-6
+99985,51249,32.8,32.8,%,2181-01-31 03:59:00,MCHC,Blood,Hematology,786-4
+99985,51250,90,90,fL,2181-01-31 03:59:00,MCV,Blood,Hematology,787-2
+99985,51254,8.9,8.9,%,2181-01-31 03:59:00,Monocytes,Blood,Hematology,742-7
+99985,51256,77.4,77.4,%,2181-01-31 03:59:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,293,293,K/uL,2181-01-31 03:59:00,Platelet Count,Blood,Hematology,777-3
+99985,51277,14.3,14.3,%,2181-01-31 03:59:00,RDW,Blood,Hematology,788-0
+99985,51279,3.14,3.14,m/uL,2181-01-31 03:59:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,15.8,15.8,K/uL,2181-01-31 03:59:00,White Blood Cells,Blood,Hematology,804-5
+99985,50800,ART,,,2181-01-31 07:11:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,-1,-1,mEq/L,2181-01-31 07:11:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,23,23,mEq/L,2181-01-31 07:11:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,INTUBATED,,,2181-01-31 07:11:00,Intubated,Blood,Blood Gas,
+99985,50816,50,50,%,2181-01-31 07:11:00,Oxygen,Blood,Blood Gas,19994-3
+99985,50818,36,36,mm Hg,2181-01-31 07:11:00,pCO2,Blood,Blood Gas,11557-6
+99985,50819,8,8,,2181-01-31 07:11:00,PEEP,Blood,Blood Gas,20077-4
+99985,50820,7.40,7.4,units,2181-01-31 07:11:00,pH,Blood,Blood Gas,11558-4
+99985,50821,74,74,mm Hg,2181-01-31 07:11:00,pO2,Blood,Blood Gas,11556-8
+99985,50825,37.2,37.2,,2181-01-31 07:11:00,Temperature,Blood,Blood Gas,
+99985,50826,508,508,,2181-01-31 07:11:00,Tidal Volume,Blood,Blood Gas,20112-9
+99985,50827,/18,,,2181-01-31 07:11:00,Ventilation Rate,Blood,Blood Gas,
+99985,50828,SPONTANEOUS,,,2181-01-31 07:11:00,Ventilator,Blood,Blood Gas,
+99985,50800,ART,,,2181-01-31 12:36:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,0,0,mEq/L,2181-01-31 12:36:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,25,25,mEq/L,2181-01-31 12:36:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99995,50820,7.49,7.49,units,2147-02-08 13:26:00,pH,Blood,Blood Gas,11558-4
+99995,50821,204,204,mm Hg,2147-02-08 13:26:00,pO2,Blood,Blood Gas,11556-8
+99995,50822,3.2,3.2,mEq/L,2147-02-08 13:26:00,"Potassium, Whole Blood",Blood,Blood Gas,6298-4
+99995,50824,132,132,mEq/L,2147-02-08 13:26:00,"Sodium, Whole Blood",Blood,Blood Gas,2947-0
+99995,50861,35,35,IU/L,2147-02-08 15:07:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99995,50863,89,89,IU/L,2147-02-08 15:07:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99995,50868,8,8,mEq/L,2147-02-08 15:07:00,Anion Gap,Blood,Chemistry,1863-0
+99995,50878,75,75,IU/L,2147-02-08 15:07:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99992,51277,16.3,16.3,%,2144-07-25 13:04:00,RDW,Blood,Hematology,788-0
+99995,50882,34,34,mEq/L,2147-02-08 15:07:00,Bicarbonate,Blood,Chemistry,1963-8
+99995,50885,3.5,3.5,mg/dL,2147-02-08 15:07:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99995,50893,8.5,8.5,mg/dL,2147-02-08 15:07:00,"Calcium, Total",Blood,Chemistry,2000-8
+99995,50902,100,100,mEq/L,2147-02-08 15:07:00,Chloride,Blood,Chemistry,2075-0
+99995,50910,43,43,IU/L,2147-02-08 15:07:00,Creatine Kinase (CK),Blood,Chemistry,2157-6
+99995,50911,2,2,ng/mL,2147-02-08 15:07:00,"Creatine Kinase, MB Isoenzyme",Blood,Chemistry,6773-6
+99995,50912,0.4,0.4,mg/dL,2147-02-08 15:07:00,Creatinine,Blood,Chemistry,2160-0
+99995,50931,131,131,mg/dL,2147-02-08 15:07:00,Glucose,Blood,Chemistry,2345-7
+99995,50954,260,260,IU/L,2147-02-08 15:07:00,Lactate Dehydrogenase (LD),Blood,Chemistry,2532-0
+99995,50960,1.9,1.9,mg/dL,2147-02-08 15:07:00,Magnesium,Blood,Chemistry,2601-3
+99995,50970,2.7,2.7,mg/dL,2147-02-08 15:07:00,Phosphate,Blood,Chemistry,2777-1
+99995,50971,3.1,3.1,mEq/L,2147-02-08 15:07:00,Potassium,Blood,Chemistry,2823-3
+99995,50983,139,139,mEq/L,2147-02-08 15:07:00,Sodium,Blood,Chemistry,2951-2
+99995,51006,10,10,mg/dL,2147-02-08 15:07:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99995,51221,26.5,26.5,%,2147-02-08 15:07:00,Hematocrit,Blood,Hematology,4544-3
+99995,51222,8.7,8.7,g/dL,2147-02-08 15:07:00,Hemoglobin,Blood,Hematology,718-7
+99995,51237,1.4,1.4,,2147-02-08 15:07:00,INR(PT),Blood,Hematology,5895-7
+99995,51248,30.5,30.5,pg,2147-02-08 15:07:00,MCH,Blood,Hematology,785-6
+99995,51249,32.9,32.9,%,2147-02-08 15:07:00,MCHC,Blood,Hematology,786-4
+99995,51250,93,93,fL,2147-02-08 15:07:00,MCV,Blood,Hematology,787-2
+99995,51265,189,189,K/uL,2147-02-08 15:07:00,Platelet Count,Blood,Hematology,777-3
+99995,51274,15.4,15.4,sec,2147-02-08 15:07:00,PT,Blood,Hematology,5902-2
+99995,51275,27.9,27.9,sec,2147-02-08 15:07:00,PTT,Blood,Hematology,3173-2
+99995,51277,18.1,18.1,%,2147-02-08 15:07:00,RDW,Blood,Hematology,788-0
+99995,51279,2.86,2.86,m/uL,2147-02-08 15:07:00,Red Blood Cells,Blood,Hematology,789-8
+99995,51301,8.2,8.2,K/uL,2147-02-08 15:07:00,White Blood Cells,Blood,Hematology,804-5
+99995,50802,10,10,mEq/L,2147-02-08 15:24:00,Base Excess,Blood,Blood Gas,11555-0
+99995,50804,35,35,mEq/L,2147-02-08 15:24:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99995,50818,46,46,mm Hg,2147-02-08 15:24:00,pCO2,Blood,Blood Gas,11557-6
+99995,50820,7.48,7.48,units,2147-02-08 15:24:00,pH,Blood,Blood Gas,11558-4
+99995,50821,178,178,mm Hg,2147-02-08 15:24:00,pO2,Blood,Blood Gas,11556-8
+99995,50802,8,8,mEq/L,2147-02-08 17:41:00,Base Excess,Blood,Blood Gas,11555-0
+99995,50804,38,38,mEq/L,2147-02-08 17:41:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99995,50809,128,128,mg/dL,2147-02-08 17:41:00,Glucose,Blood,Blood Gas,2339-0
+99995,50817,97,97,%,2147-02-08 17:41:00,Oxygen Saturation,Blood,Blood Gas,20564-1
+99995,50818,63,63,mm Hg,2147-02-08 17:41:00,pCO2,Blood,Blood Gas,11557-6
+99995,50820,7.37,7.37,units,2147-02-08 17:41:00,pH,Blood,Blood Gas,11558-4
+99995,50821,180,180,mm Hg,2147-02-08 17:41:00,pO2,Blood,Blood Gas,11556-8
+99995,50822,3.4,3.4,mEq/L,2147-02-08 17:41:00,"Potassium, Whole Blood",Blood,Blood Gas,6298-4
+99995,50802,7,7,mEq/L,2147-02-08 20:36:00,Base Excess,Blood,Blood Gas,11555-0
+99995,50804,35,35,mEq/L,2147-02-08 20:36:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99995,50809,115,115,mg/dL,2147-02-08 20:36:00,Glucose,Blood,Blood Gas,2339-0
+99995,50817,97,97,%,2147-02-08 20:36:00,Oxygen Saturation,Blood,Blood Gas,20564-1
+99995,50818,54,54,mm Hg,2147-02-08 20:36:00,pCO2,Blood,Blood Gas,11557-6
+99995,50820,7.40,7.4,units,2147-02-08 20:36:00,pH,Blood,Blood Gas,11558-4
+99995,50821,146,146,mm Hg,2147-02-08 20:36:00,pO2,Blood,Blood Gas,11556-8
+99995,50822,4.1,4.1,mEq/L,2147-02-08 20:36:00,"Potassium, Whole Blood",Blood,Blood Gas,6298-4
+99995,50910,38,38,IU/L,2147-02-08 22:40:00,Creatine Kinase (CK),Blood,Chemistry,2157-6
+99995,50911,2,2,ng/mL,2147-02-08 22:40:00,"Creatine Kinase, MB Isoenzyme",Blood,Chemistry,6773-6
+99995,50868,9,9,mEq/L,2147-02-09 02:31:00,Anion Gap,Blood,Chemistry,1863-0
+99995,50882,32,32,mEq/L,2147-02-09 02:31:00,Bicarbonate,Blood,Chemistry,1963-8
+99995,50893,8.2,8.2,mg/dL,2147-02-09 02:31:00,"Calcium, Total",Blood,Chemistry,2000-8
+99995,50902,99,99,mEq/L,2147-02-09 02:31:00,Chloride,Blood,Chemistry,2075-0
+99995,50912,0.5,0.5,mg/dL,2147-02-09 02:31:00,Creatinine,Blood,Chemistry,2160-0
+99995,50931,110,110,mg/dL,2147-02-09 02:31:00,Glucose,Blood,Chemistry,2345-7
+99995,50960,1.9,1.9,mg/dL,2147-02-09 02:31:00,Magnesium,Blood,Chemistry,2601-3
+99995,50970,3.3,3.3,mg/dL,2147-02-09 02:31:00,Phosphate,Blood,Chemistry,2777-1
+99995,50971,4.0,4,mEq/L,2147-02-09 02:31:00,Potassium,Blood,Chemistry,2823-3
+99995,50983,136,136,mEq/L,2147-02-09 02:31:00,Sodium,Blood,Chemistry,2951-2
+99995,51006,13,13,mg/dL,2147-02-09 02:31:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99995,51221,28.7,28.7,%,2147-02-09 02:31:00,Hematocrit,Blood,Hematology,4544-3
+99995,51222,9.3,9.3,g/dL,2147-02-09 02:31:00,Hemoglobin,Blood,Hematology,718-7
+99995,51248,29.8,29.8,pg,2147-02-09 02:31:00,MCH,Blood,Hematology,785-6
+99995,51249,32.5,32.5,%,2147-02-09 02:31:00,MCHC,Blood,Hematology,786-4
+99995,51250,92,92,fL,2147-02-09 02:31:00,MCV,Blood,Hematology,787-2
+99985,50868,11,11,mEq/L,2181-02-06 16:13:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50882,30,30,mEq/L,2181-02-06 16:13:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50902,97,97,mEq/L,2181-02-06 16:13:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,0.8,0.8,mg/dL,2181-02-06 16:13:00,Creatinine,Blood,Chemistry,2160-0
+99985,50931,135,135,mg/dL,2181-02-06 16:13:00,Glucose,Blood,Chemistry,2345-7
+99985,50971,3.8,3.8,mEq/L,2181-02-06 16:13:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,134,134,mEq/L,2181-02-06 16:13:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,19,19,mg/dL,2181-02-06 16:13:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,50861,54,54,IU/L,2181-02-07 02:50:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,299,299,IU/L,2181-02-07 02:50:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,12,12,mEq/L,2181-02-07 02:50:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,50,50,IU/L,2181-02-07 02:50:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,24,24,mEq/L,2181-02-07 02:50:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.4,0.4,mg/dL,2181-02-07 02:50:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50893,8.2,8.2,mg/dL,2181-02-07 02:50:00,"Calcium, Total",Blood,Chemistry,2000-8
+99985,50902,101,101,mEq/L,2181-02-07 02:50:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,0.8,0.8,mg/dL,2181-02-07 02:50:00,Creatinine,Blood,Chemistry,2160-0
+99985,50931,128,128,mg/dL,2181-02-07 02:50:00,Glucose,Blood,Chemistry,2345-7
+99985,50960,2.4,2.4,mg/dL,2181-02-07 02:50:00,Magnesium,Blood,Chemistry,2601-3
+99985,50970,3.4,3.4,mg/dL,2181-02-07 02:50:00,Phosphate,Blood,Chemistry,2777-1
+99985,50971,4.0,4,mEq/L,2181-02-07 02:50:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,133,133,mEq/L,2181-02-07 02:50:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,20,20,mg/dL,2181-02-07 02:50:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51146,0.5,0.5,%,2181-02-07 02:50:00,Basophils,Blood,Hematology,704-7
+99985,51200,2.3,2.3,%,2181-02-07 02:50:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,24.7,24.7,%,2181-02-07 02:50:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,7.9,7.9,g/dL,2181-02-07 02:50:00,Hemoglobin,Blood,Hematology,718-7
+99985,51237,1.1,1.1,,2181-02-07 02:50:00,INR(PT),Blood,Hematology,5895-7
+99985,51244,9.0,9,%,2181-02-07 02:50:00,Lymphocytes,Blood,Hematology,731-0
+99985,51248,29.2,29.2,pg,2181-02-07 02:50:00,MCH,Blood,Hematology,785-6
+99985,51249,31.9,31.9,%,2181-02-07 02:50:00,MCHC,Blood,Hematology,786-4
+99985,51250,91,91,fL,2181-02-07 02:50:00,MCV,Blood,Hematology,787-2
+99985,51254,3.4,3.4,%,2181-02-07 02:50:00,Monocytes,Blood,Hematology,742-7
+99985,51256,84.9,84.9,%,2181-02-07 02:50:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,781,781,K/uL,2181-02-07 02:50:00,Platelet Count,Blood,Hematology,777-3
+99985,51274,12.9,12.9,sec,2181-02-07 02:50:00,PT,Blood,Hematology,5902-2
+99985,51275,37.3,37.3,sec,2181-02-07 02:50:00,PTT,Blood,Hematology,3173-2
+99985,51277,16.9,16.9,%,2181-02-07 02:50:00,RDW,Blood,Hematology,788-0
+99985,51279,2.71,2.71,m/uL,2181-02-07 02:50:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,23.6,23.6,K/uL,2181-02-07 02:50:00,White Blood Cells,Blood,Hematology,804-5
+99985,50800,ART,,,2181-02-07 06:12:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,0,0,mEq/L,2181-02-07 06:12:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,24,24,mEq/L,2181-02-07 06:12:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,INTUBATED,,,2181-02-07 06:12:00,Intubated,Blood,Blood Gas,
+99985,50816,40,40,%,2181-02-07 06:12:00,Oxygen,Blood,Blood Gas,19994-3
+99985,50818,36,36,mm Hg,2181-02-07 06:12:00,pCO2,Blood,Blood Gas,11557-6
+99985,50820,7.42,7.42,units,2181-02-07 06:12:00,pH,Blood,Blood Gas,11558-4
+99985,50821,60,60,mm Hg,2181-02-07 06:12:00,pO2,Blood,Blood Gas,11556-8
+99985,50825,37.1,37.1,,2181-02-07 06:12:00,Temperature,Blood,Blood Gas,
+99985,50800,MIX,,,2181-02-07 16:25:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,-1,-1,mEq/L,2181-02-07 16:25:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,25,25,mEq/L,2181-02-07 16:25:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50818,41,41,mm Hg,2181-02-07 16:25:00,pCO2,Blood,Blood Gas,11557-6
+99985,50820,7.37,7.37,units,2181-02-07 16:25:00,pH,Blood,Blood Gas,11558-4
+99985,50821,35,35,mm Hg,2181-02-07 16:25:00,pO2,Blood,Blood Gas,11556-8
+99985,50861,46,46,IU/L,2181-02-08 04:20:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,282,282,IU/L,2181-02-08 04:20:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,15,15,mEq/L,2181-02-08 04:20:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,39,39,IU/L,2181-02-08 04:20:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,23,23,mEq/L,2181-02-08 04:20:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.6,0.6,mg/dL,2181-02-08 04:20:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50902,103,103,mEq/L,2181-02-08 04:20:00,Chloride,Blood,Chemistry,2075-0
+99985,50931,115,115,mg/dL,2181-02-08 04:20:00,Glucose,Blood,Chemistry,2345-7
+99985,50954,223,223,IU/L,2181-02-08 04:20:00,Lactate Dehydrogenase (LD),Blood,Chemistry,2532-0
+99985,50960,2.6,2.6,mg/dL,2181-02-08 04:20:00,Magnesium,Blood,Chemistry,2601-3
+99985,50971,4.5,4.5,mEq/L,2181-02-08 04:20:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,136,136,mEq/L,2181-02-08 04:20:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,21,21,mg/dL,2181-02-08 04:20:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51134,1+,,,2181-02-08 04:20:00,Acanthocytes,Blood,Hematology,7789-1
+99985,51137,2+,,,2181-02-08 04:20:00,Anisocytosis,Blood,Hematology,702-1
+99985,51146,0.6,0.6,%,2181-02-08 04:20:00,Basophils,Blood,Hematology,704-7
+99985,51200,2.6,2.6,%,2181-02-08 04:20:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,24.5,24.5,%,2181-02-08 04:20:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,7.7,7.7,g/dL,2181-02-08 04:20:00,Hemoglobin,Blood,Hematology,718-7
+99991,50960,1.8,1.8,mg/dL,2184-12-27 21:40:00,Magnesium,Blood,Chemistry,2601-3
+99991,50970,3.1,3.1,mg/dL,2184-12-27 21:40:00,Phosphate,Blood,Chemistry,2777-1
+99991,50971,4.1,4.1,mEq/L,2184-12-27 21:40:00,Potassium,Blood,Chemistry,2823-3
+99991,50983,139,139,mEq/L,2184-12-27 21:40:00,Sodium,Blood,Chemistry,2951-2
+99991,51006,30,30,mg/dL,2184-12-27 21:40:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99991,51221,35.6,35.6,%,2184-12-27 21:40:00,Hematocrit,Blood,Hematology,4544-3
+99991,51222,12.1,12.1,g/dL,2184-12-27 21:40:00,Hemoglobin,Blood,Hematology,718-7
+99991,51248,29.4,29.4,pg,2184-12-27 21:40:00,MCH,Blood,Hematology,785-6
+99991,51249,34.9,34.9,%,2184-12-27 21:40:00,MCHC,Blood,Hematology,786-4
+99991,51250,84,84,fL,2184-12-27 21:40:00,MCV,Blood,Hematology,787-2
+99991,51265,256,256,K/uL,2184-12-27 21:40:00,Platelet Count,Blood,Hematology,777-3
+99991,51277,13.1,13.1,%,2184-12-27 21:40:00,RDW,Blood,Hematology,788-0
+99991,51279,4.12,4.12,m/uL,2184-12-27 21:40:00,Red Blood Cells,Blood,Hematology,789-8
+99991,51301,3.3,3.3,K/uL,2184-12-27 21:40:00,White Blood Cells,Blood,Hematology,804-5
+99991,50868,14,14,mEq/L,2184-12-28 02:00:00,Anion Gap,Blood,Chemistry,1863-0
+99991,50882,20,20,mEq/L,2184-12-28 02:00:00,Bicarbonate,Blood,Chemistry,1963-8
+99991,50893,6.5,6.5,mg/dL,2184-12-28 02:00:00,"Calcium, Total",Blood,Chemistry,2000-8
+99991,50902,110,110,mEq/L,2184-12-28 02:00:00,Chloride,Blood,Chemistry,2075-0
+99991,50912,2.1,2.1,mg/dL,2184-12-28 02:00:00,Creatinine,Blood,Chemistry,2160-0
+99991,50931,156,156,mg/dL,2184-12-28 02:00:00,Glucose,Blood,Chemistry,2345-7
+99991,50960,1.3,1.3,mg/dL,2184-12-28 02:00:00,Magnesium,Blood,Chemistry,2601-3
+99991,50970,2.1,2.1,mg/dL,2184-12-28 02:00:00,Phosphate,Blood,Chemistry,2777-1
+99991,50971,3.6,3.6,mEq/L,2184-12-28 02:00:00,Potassium,Blood,Chemistry,2823-3
+99991,50983,140,140,mEq/L,2184-12-28 02:00:00,Sodium,Blood,Chemistry,2951-2
+99991,51006,31,31,mg/dL,2184-12-28 02:00:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99991,51009,16.9,16.9,ug/mL,2184-12-28 02:00:00,Vancomycin,Blood,Chemistry,20578-1
+99991,51221,25.1,25.1,%,2184-12-28 02:00:00,Hematocrit,Blood,Hematology,4544-3
+99991,51222,8.8,8.8,g/dL,2184-12-28 02:00:00,Hemoglobin,Blood,Hematology,718-7
+99991,51237,1.3,1.3,,2184-12-28 02:00:00,INR(PT),Blood,Hematology,5895-7
+99991,51248,28.8,28.8,pg,2184-12-28 02:00:00,MCH,Blood,Hematology,785-6
+99991,51249,34.9,34.9,%,2184-12-28 02:00:00,MCHC,Blood,Hematology,786-4
+99991,51250,83,83,fL,2184-12-28 02:00:00,MCV,Blood,Hematology,787-2
+99991,51265,203,203,K/uL,2184-12-28 02:00:00,Platelet Count,Blood,Hematology,777-3
+99991,51274,14.6,14.6,sec,2184-12-28 02:00:00,PT,Blood,Hematology,5902-2
+99991,51275,34.2,34.2,sec,2184-12-28 02:00:00,PTT,Blood,Hematology,3173-2
+99991,51277,13.5,13.5,%,2184-12-28 02:00:00,RDW,Blood,Hematology,788-0
+99991,51279,3.04,3.04,m/uL,2184-12-28 02:00:00,Red Blood Cells,Blood,Hematology,789-8
+99991,51301,3.4,3.4,K/uL,2184-12-28 02:00:00,White Blood Cells,Blood,Hematology,804-5
+99991,50801,298,298,mm Hg,2184-12-28 03:02:00,Alveolar-arterial Gradient,Blood,Blood Gas,19991-9
+99991,50802,-1,-1,mEq/L,2184-12-28 03:02:00,Base Excess,Blood,Blood Gas,11555-0
+99991,50804,22,22,mEq/L,2184-12-28 03:02:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99991,50813,2.2,2.2,mmol/L,2184-12-28 03:02:00,Lactate,Blood,Blood Gas,32693-4
+99991,50816,100,100,%,2184-12-28 03:02:00,Oxygen,Blood,Blood Gas,19994-3
+99991,50818,34,34,mm Hg,2184-12-28 03:02:00,pCO2,Blood,Blood Gas,11557-6
+99991,50820,7.41,7.41,units,2184-12-28 03:02:00,pH,Blood,Blood Gas,11558-4
+99991,50821,399,399,mm Hg,2184-12-28 03:02:00,pO2,Blood,Blood Gas,11556-8
+99991,50823,54,54,,2184-12-28 03:02:00,Required O2,Blood,Blood Gas,
+99991,50825,37.1,37.1,,2184-12-28 03:02:00,Temperature,Blood,Blood Gas,
+99991,50826,550,550,,2184-12-28 03:02:00,Tidal Volume,Blood,Blood Gas,20112-9
+99991,51143,1,1,%,2184-12-28 11:13:00,Atypical Lymphocytes,Blood,Hematology,733-6
+99991,51144,13,13,%,2184-12-28 11:13:00,Bands,Blood,Hematology,763-3
+99991,51146,0,0,%,2184-12-28 11:13:00,Basophils,Blood,Hematology,704-7
+99991,51200,2,2,%,2184-12-28 11:13:00,Eosinophils,Blood,Hematology,711-2
+99991,51221,24.3,24.3,%,2184-12-28 11:13:00,Hematocrit,Blood,Hematology,4544-3
+99991,51222,8.8,8.8,g/dL,2184-12-28 11:13:00,Hemoglobin,Blood,Hematology,718-7
+99991,51244,28,28,%,2184-12-28 11:13:00,Lymphocytes,Blood,Hematology,731-0
+99991,51248,30.2,30.2,pg,2184-12-28 11:13:00,MCH,Blood,Hematology,785-6
+99991,51249,36.3,36.3,%,2184-12-28 11:13:00,MCHC,Blood,Hematology,786-4
+99991,51250,83,83,fL,2184-12-28 11:13:00,MCV,Blood,Hematology,787-2
+99991,51251,0,0,%,2184-12-28 11:13:00,Metamyelocytes,Blood,Hematology,28541-1
+99991,51254,23,23,%,2184-12-28 11:13:00,Monocytes,Blood,Hematology,742-7
+99991,51255,2,2,%,2184-12-28 11:13:00,Myelocytes,Blood,Hematology,26498-6
+99991,51256,30,30,%,2184-12-28 11:13:00,Neutrophils,Blood,Hematology,761-7
+99991,51265,166,166,K/uL,2184-12-28 11:13:00,Platelet Count,Blood,Hematology,777-3
+99991,51269,1,1,%,2184-12-28 11:13:00,Promyelocytes,Blood,Hematology,781-5
+99991,51277,13.3,13.3,%,2184-12-28 11:13:00,RDW,Blood,Hematology,788-0
+99991,51279,2.93,2.93,m/uL,2184-12-28 11:13:00,Red Blood Cells,Blood,Hematology,789-8
+99991,51301,2.3,2.3,K/uL,2184-12-28 11:13:00,White Blood Cells,Blood,Hematology,804-5
+99991,51476,0,0,#/hpf,2184-12-28 13:30:00,Epithelial Cells,Urine,Hematology,5787-7
+99991,51491,5.5,5.5,units,2184-12-28 13:30:00,pH,Urine,Hematology,5803-2
+99991,51492,30,30,mg/dL,2184-12-28 13:30:00,Protein,Urine,Hematology,5804-0
+99991,51493,7,7,#/hpf,2184-12-28 13:30:00,RBC,Urine,Hematology,5808-1
+99991,51498,1.019,1.019, ,2184-12-28 13:30:00,Specific Gravity,Urine,Hematology,5811-5
+99991,51516,1,1,#/hpf,2184-12-28 13:30:00,WBC,Urine,Hematology,5821-4
+99985,50960,2.3,2.3,mg/dL,2181-02-02 04:03:00,Magnesium,Blood,Chemistry,2601-3
+99985,50970,2.0,2,mg/dL,2181-02-02 04:03:00,Phosphate,Blood,Chemistry,2777-1
+99985,50971,3.9,3.9,mEq/L,2181-02-02 04:03:00,Potassium,Blood,Chemistry,2823-3
+99985,50976,4.4,4.4,g/dL,2181-02-02 04:03:00,"Protein, Total",Blood,Chemistry,2885-2
+99985,50983,133,133,mEq/L,2181-02-02 04:03:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,19,19,mg/dL,2181-02-02 04:03:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51146,0.2,0.2,%,2181-02-02 04:03:00,Basophils,Blood,Hematology,704-7
+99985,51200,2.1,2.1,%,2181-02-02 04:03:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,26.3,26.3,%,2181-02-02 04:03:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,8.3,8.3,g/dL,2181-02-02 04:03:00,Hemoglobin,Blood,Hematology,718-7
+99985,51237,1.1,1.1,,2181-02-02 04:03:00,INR(PT),Blood,Hematology,5895-7
+99985,51244,6.7,6.7,%,2181-02-02 04:03:00,Lymphocytes,Blood,Hematology,731-0
+99985,51248,28.6,28.6,pg,2181-02-02 04:03:00,MCH,Blood,Hematology,785-6
+99985,51249,31.7,31.7,%,2181-02-02 04:03:00,MCHC,Blood,Hematology,786-4
+99985,51250,90,90,fL,2181-02-02 04:03:00,MCV,Blood,Hematology,787-2
+99985,51254,6.1,6.1,%,2181-02-02 04:03:00,Monocytes,Blood,Hematology,742-7
+99985,51256,84.9,84.9,%,2181-02-02 04:03:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,439,439,K/uL,2181-02-02 04:03:00,Platelet Count,Blood,Hematology,777-3
+99985,51274,13.1,13.1,sec,2181-02-02 04:03:00,PT,Blood,Hematology,5902-2
+99985,51275,35.9,35.9,sec,2181-02-02 04:03:00,PTT,Blood,Hematology,3173-2
+99985,51277,14.8,14.8,%,2181-02-02 04:03:00,RDW,Blood,Hematology,788-0
+99985,51279,2.91,2.91,m/uL,2181-02-02 04:03:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,19.2,19.2,K/uL,2181-02-02 04:03:00,White Blood Cells,Blood,Hematology,804-5
+99985,50800,ART,,,2181-02-02 06:25:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,1,1,mEq/L,2181-02-02 06:25:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,28,28,mEq/L,2181-02-02 06:25:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,INTUBATED,,,2181-02-02 06:25:00,Intubated,Blood,Blood Gas,
+99985,50816,50,50,%,2181-02-02 06:25:00,Oxygen,Blood,Blood Gas,19994-3
+99985,50818,41,41,mm Hg,2181-02-02 06:25:00,pCO2,Blood,Blood Gas,11557-6
+99985,50819,8,8,,2181-02-02 06:25:00,PEEP,Blood,Blood Gas,20077-4
+99985,50820,7.42,7.42,units,2181-02-02 06:25:00,pH,Blood,Blood Gas,11558-4
+99985,50821,85,85,mm Hg,2181-02-02 06:25:00,pO2,Blood,Blood Gas,11556-8
+99985,50825,37.3,37.3,,2181-02-02 06:25:00,Temperature,Blood,Blood Gas,
+99985,50827,/20,,,2181-02-02 06:25:00,Ventilation Rate,Blood,Blood Gas,
+99985,51463,NONE,,,2181-02-02 12:59:00,Bacteria,Urine,Hematology,5769-5
+99985,51464,SM,,mg/dL,2181-02-02 12:59:00,Bilirubin,Urine,Hematology,5770-3
+99985,51466,MOD,,,2181-02-02 12:59:00,Blood,Urine,Hematology,5794-3
+99985,51476,0,0,#/hpf,2181-02-02 12:59:00,Epithelial Cells,Urine,Hematology,5787-7
+99985,51478,NEG,,mg/dL,2181-02-02 12:59:00,Glucose,Urine,Hematology,5792-7
+99985,51479,1,1,#/lpf,2181-02-02 12:59:00,Granular Casts,Urine,Hematology,5793-5
+99985,51482,8,8,#/lpf,2181-02-02 12:59:00,Hyaline Casts,Urine,Hematology,5796-8
+99985,51484,NEG,,mg/dL,2181-02-02 12:59:00,Ketone,Urine,Hematology,5797-6
+99985,51486,NEG,,,2181-02-02 12:59:00,Leukocytes,Urine,Hematology,5799-2
+99985,51487,NEG,,,2181-02-02 12:59:00,Nitrite,Urine,Hematology,5802-4
+99985,51491,6.0,6,units,2181-02-02 12:59:00,pH,Urine,Hematology,5803-2
+99985,51492,100,100,mg/dL,2181-02-02 12:59:00,Protein,Urine,Hematology,5804-0
+99985,51493,100,100,#/hpf,2181-02-02 12:59:00,RBC,Urine,Hematology,5808-1
+99985,51497,<1,,#/hpf,2181-02-02 12:59:00,Renal Epithelial Cells,Urine,Hematology,26052-1
+99985,51498,1.030,1.03, ,2181-02-02 12:59:00,Specific Gravity,Urine,Hematology,5811-5
+99985,51501,<1,,#/hpf,2181-02-02 12:59:00,Transitional Epithelial Cells,Urine,Hematology,30089-7
+99985,51506,Clear,,,2181-02-02 12:59:00,Urine Appearance,Urine,Hematology,5767-9
+99985,51508,Yellow,,,2181-02-02 12:59:00,Urine Color,Urine,Hematology,5778-6
+99985,51512,RARE,,,2181-02-02 12:59:00,Urine Mucous,Urine,Hematology,8247-9
+99985,51514,8,8,mg/dL,2181-02-02 12:59:00,Urobilinogen,Urine,Hematology,5818-0
+99985,51516,12,12,#/hpf,2181-02-02 12:59:00,WBC,Urine,Hematology,5821-4
+99985,51519,NONE,,,2181-02-02 12:59:00,Yeast,Urine,Hematology,5822-2
+99985,50831,7.42,7.42,units,2181-02-02 13:14:00,pH,Other Body Fluid,Blood Gas,2748-2
+99985,50861,84,84,IU/L,2181-02-03 04:29:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,419,419,IU/L,2181-02-03 04:29:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,11,11,mEq/L,2181-02-03 04:29:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,80,80,IU/L,2181-02-03 04:29:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,24,24,mEq/L,2181-02-03 04:29:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,1.4,1.4,mg/dL,2181-02-03 04:29:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50893,8.0,8,mg/dL,2181-02-03 04:29:00,"Calcium, Total",Blood,Chemistry,2000-8
+99985,50902,100,100,mEq/L,2181-02-03 04:29:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,0.8,0.8,mg/dL,2181-02-03 04:29:00,Creatinine,Blood,Chemistry,2160-0
+99985,50920,See Comments,,,2181-02-03 04:29:00,Estimated GFR (MDRD equation),Blood,Chemistry,33914-3
+99985,50931,118,118,mg/dL,2181-02-03 04:29:00,Glucose,Blood,Chemistry,2345-7
+99985,50954,193,193,IU/L,2181-02-03 04:29:00,Lactate Dehydrogenase (LD),Blood,Chemistry,2532-0
+99985,50960,2.3,2.3,mg/dL,2181-02-03 04:29:00,Magnesium,Blood,Chemistry,2601-3
+99985,50970,2.5,2.5,mg/dL,2181-02-03 04:29:00,Phosphate,Blood,Chemistry,2777-1
+99985,50971,3.9,3.9,mEq/L,2181-02-03 04:29:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,131,131,mEq/L,2181-02-03 04:29:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,20,20,mg/dL,2181-02-03 04:29:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51221,24.7,24.7,%,2181-02-03 04:29:00,Hematocrit,Blood,Hematology,4544-3
+99999,50810,34,34,%,2117-12-30 09:05:00,"Hematocrit, Calculated",Blood,Blood Gas,20570-8
+99999,50811,11.3,11.3,g/dL,2117-12-30 09:05:00,Hemoglobin,Blood,Blood Gas,718-7
+99999,50813,3.1,3.1,mmol/L,2117-12-30 09:05:00,Lactate,Blood,Blood Gas,32693-4
+99999,50818,40,40,mm Hg,2117-12-30 09:05:00,pCO2,Blood,Blood Gas,11557-6
+99999,50820,7.36,7.36,units,2117-12-30 09:05:00,pH,Blood,Blood Gas,11558-4
+99999,50821,234,234,mm Hg,2117-12-30 09:05:00,pO2,Blood,Blood Gas,11556-8
+99999,50822,5.1,5.1,mEq/L,2117-12-30 09:05:00,"Potassium, Whole Blood",Blood,Blood Gas,6298-4
+99999,50824,138,138,mEq/L,2117-12-30 09:05:00,"Sodium, Whole Blood",Blood,Blood Gas,2947-0
+99999,50802,-1,-1,mEq/L,2117-12-30 11:03:00,Base Excess,Blood,Blood Gas,11555-0
+99999,50803,23,23,mEq/L,2117-12-30 11:03:00,"Calculated Bicarbonate, Whole Blood",Blood,Blood Gas,1959-6
+99999,50804,23,23,mEq/L,2117-12-30 11:03:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99999,50806,107,107,mEq/L,2117-12-30 11:03:00,"Chloride, Whole Blood",Blood,Blood Gas,2069-3
+99999,50808,1.09,1.09,mmol/L,2117-12-30 11:03:00,Free Calcium,Blood,Blood Gas,1994-3
+99999,50809,112,112,mg/dL,2117-12-30 11:03:00,Glucose,Blood,Blood Gas,2339-0
+99999,50810,29,29,%,2117-12-30 11:03:00,"Hematocrit, Calculated",Blood,Blood Gas,20570-8
+99999,50811,9.8,9.8,g/dL,2117-12-30 11:03:00,Hemoglobin,Blood,Blood Gas,718-7
+99999,50813,3.1,3.1,mmol/L,2117-12-30 11:03:00,Lactate,Blood,Blood Gas,32693-4
+99999,50816,57,57,%,2117-12-30 11:03:00,Oxygen,Blood,Blood Gas,19994-3
+99999,50818,37,37,mm Hg,2117-12-30 11:03:00,pCO2,Blood,Blood Gas,11557-6
+99999,50820,7.39,7.39,units,2117-12-30 11:03:00,pH,Blood,Blood Gas,11558-4
+99999,50821,265,265,mm Hg,2117-12-30 11:03:00,pO2,Blood,Blood Gas,11556-8
+99999,50822,4.9,4.9,mEq/L,2117-12-30 11:03:00,"Potassium, Whole Blood",Blood,Blood Gas,6298-4
+99999,50824,139,139,mEq/L,2117-12-30 11:03:00,"Sodium, Whole Blood",Blood,Blood Gas,2947-0
+99999,51221,26.7,26.7,%,2117-12-31 07:10:00,Hematocrit,Blood,Hematology,4544-3
+99999,51222,8.7,8.7,g/dL,2117-12-31 07:10:00,Hemoglobin,Blood,Hematology,718-7
+99999,51248,30.3,30.3,pg,2117-12-31 07:10:00,MCH,Blood,Hematology,785-6
+99999,51249,32.7,32.7,%,2117-12-31 07:10:00,MCHC,Blood,Hematology,786-4
+99999,51250,93,93,fL,2117-12-31 07:10:00,MCV,Blood,Hematology,787-2
+99999,51265,252,252,K/uL,2117-12-31 07:10:00,Platelet Count,Blood,Hematology,777-3
+99999,51277,12.9,12.9,%,2117-12-31 07:10:00,RDW,Blood,Hematology,788-0
+99999,51279,2.89,2.89,m/uL,2117-12-31 07:10:00,Red Blood Cells,Blood,Hematology,789-8
+99999,51301,12.4,12.4,K/uL,2117-12-31 07:10:00,White Blood Cells,Blood,Hematology,804-5
+99999,50868,15,15,mEq/L,2117-12-31 10:30:00,Anion Gap,Blood,Chemistry,1863-0
+99999,50882,23,23,mEq/L,2117-12-31 10:30:00,Bicarbonate,Blood,Chemistry,1963-8
+99999,50893,7.9,7.9,mg/dL,2117-12-31 10:30:00,"Calcium, Total",Blood,Chemistry,2000-8
+99999,50902,104,104,mEq/L,2117-12-31 10:30:00,Chloride,Blood,Chemistry,2075-0
+99999,50912,1.6,1.6,mg/dL,2117-12-31 10:30:00,Creatinine,Blood,Chemistry,2160-0
+99999,50931,148,148,mg/dL,2117-12-31 10:30:00,Glucose,Blood,Chemistry,2345-7
+99999,50960,1.3,1.3,mg/dL,2117-12-31 10:30:00,Magnesium,Blood,Chemistry,2601-3
+99999,50970,3.7,3.7,mg/dL,2117-12-31 10:30:00,Phosphate,Blood,Chemistry,2777-1
+99999,50971,4.2,4.2,mEq/L,2117-12-31 10:30:00,Potassium,Blood,Chemistry,2823-3
+99999,50983,138,138,mEq/L,2117-12-31 10:30:00,Sodium,Blood,Chemistry,2951-2
+99999,51006,32,32,mg/dL,2117-12-31 10:30:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99999,50868,10,10,mEq/L,2118-01-01 05:35:00,Anion Gap,Blood,Chemistry,1863-0
+99999,50882,26,26,mEq/L,2118-01-01 05:35:00,Bicarbonate,Blood,Chemistry,1963-8
+99999,50893,8.0,8,mg/dL,2118-01-01 05:35:00,"Calcium, Total",Blood,Chemistry,2000-8
+99999,50902,109,109,mEq/L,2118-01-01 05:35:00,Chloride,Blood,Chemistry,2075-0
+99999,50912,0.9,0.9,mg/dL,2118-01-01 05:35:00,Creatinine,Blood,Chemistry,2160-0
+99999,50931,133,133,mg/dL,2118-01-01 05:35:00,Glucose,Blood,Chemistry,2345-7
+99999,50960,1.6,1.6,mg/dL,2118-01-01 05:35:00,Magnesium,Blood,Chemistry,2601-3
+99999,50970,1.9,1.9,mg/dL,2118-01-01 05:35:00,Phosphate,Blood,Chemistry,2777-1
+99999,50971,4.2,4.2,mEq/L,2118-01-01 05:35:00,Potassium,Blood,Chemistry,2823-3
+99999,50983,141,141,mEq/L,2118-01-01 05:35:00,Sodium,Blood,Chemistry,2951-2
+99999,51006,15,15,mg/dL,2118-01-01 05:35:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99999,51221,25.8,25.8,%,2118-01-01 05:35:00,Hematocrit,Blood,Hematology,4544-3
+99999,51222,8.7,8.7,g/dL,2118-01-01 05:35:00,Hemoglobin,Blood,Hematology,718-7
+99999,51248,30.9,30.9,pg,2118-01-01 05:35:00,MCH,Blood,Hematology,785-6
+99999,51249,33.6,33.6,%,2118-01-01 05:35:00,MCHC,Blood,Hematology,786-4
+99999,51250,92,92,fL,2118-01-01 05:35:00,MCV,Blood,Hematology,787-2
+99999,51265,182,182,K/uL,2118-01-01 05:35:00,Platelet Count,Blood,Hematology,777-3
+99999,51277,13.0,13,%,2118-01-01 05:35:00,RDW,Blood,Hematology,788-0
+99999,51279,2.81,2.81,m/uL,2118-01-01 05:35:00,Red Blood Cells,Blood,Hematology,789-8
+99999,51301,9.3,9.3,K/uL,2118-01-01 05:35:00,White Blood Cells,Blood,Hematology,804-5
+99999,50868,10,10,mEq/L,2118-01-02 05:30:00,Anion Gap,Blood,Chemistry,1863-0
+99999,50882,28,28,mEq/L,2118-01-02 05:30:00,Bicarbonate,Blood,Chemistry,1963-8
+99999,50893,8.4,8.4,mg/dL,2118-01-02 05:30:00,"Calcium, Total",Blood,Chemistry,2000-8
+99999,50902,108,108,mEq/L,2118-01-02 05:30:00,Chloride,Blood,Chemistry,2075-0
+99999,50912,0.7,0.7,mg/dL,2118-01-02 05:30:00,Creatinine,Blood,Chemistry,2160-0
+99999,50931,139,139,mg/dL,2118-01-02 05:30:00,Glucose,Blood,Chemistry,2345-7
+99999,50960,1.5,1.5,mg/dL,2118-01-02 05:30:00,Magnesium,Blood,Chemistry,2601-3
+99999,50970,2.1,2.1,mg/dL,2118-01-02 05:30:00,Phosphate,Blood,Chemistry,2777-1
+99999,50971,3.9,3.9,mEq/L,2118-01-02 05:30:00,Potassium,Blood,Chemistry,2823-3
+99999,50983,142,142,mEq/L,2118-01-02 05:30:00,Sodium,Blood,Chemistry,2951-2
+99999,51006,13,13,mg/dL,2118-01-02 05:30:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51244,13.2,13.2,%,2181-02-10 07:28:00,Lymphocytes,Blood,Hematology,731-0
+99985,51246,1+,,,2181-02-10 07:28:00,Macrocytes,Blood,Hematology,738-5
+99985,51248,29.2,29.2,pg,2181-02-10 07:28:00,MCH,Blood,Hematology,785-6
+99985,51249,32.5,32.5,%,2181-02-10 07:28:00,MCHC,Blood,Hematology,786-4
+99985,51250,90,90,fL,2181-02-10 07:28:00,MCV,Blood,Hematology,787-2
+99985,51252,NORMAL,,,2181-02-10 07:28:00,Microcytes,Blood,Hematology,741-9
+99985,51254,6.3,6.3,%,2181-02-10 07:28:00,Monocytes,Blood,Hematology,742-7
+99985,51256,76.8,76.8,%,2181-02-10 07:28:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,916,916,K/uL,2181-02-10 07:28:00,Platelet Count,Blood,Hematology,777-3
+99985,51267,1+,,,2181-02-10 07:28:00,Poikilocytosis,Blood,Hematology,779-9
+99985,51268,OCCASIONAL,,,2181-02-10 07:28:00,Polychromasia,Blood,Hematology,10378-8
+99985,51274,29.7,29.7,sec,2181-02-10 07:28:00,PT,Blood,Hematology,5902-2
+99985,51275,56.4,56.4,sec,2181-02-10 07:28:00,PTT,Blood,Hematology,3173-2
+99985,51277,17.0,17,%,2181-02-10 07:28:00,RDW,Blood,Hematology,788-0
+99985,51279,3.31,3.31,m/uL,2181-02-10 07:28:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51294,OCCASIONAL,,,2181-02-10 07:28:00,Target Cells,Blood,Hematology,10381-2
+99985,51301,15.4,15.4,K/uL,2181-02-10 07:28:00,White Blood Cells,Blood,Hematology,804-5
+99985,50861,43,43,IU/L,2181-02-11 05:35:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50862,2.8,2.8,g/dL,2181-02-11 05:35:00,Albumin,Blood,Chemistry,1751-7
+99985,50863,214,214,IU/L,2181-02-11 05:35:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,13,13,mEq/L,2181-02-11 05:35:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,32,32,IU/L,2181-02-11 05:35:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,27,27,mEq/L,2181-02-11 05:35:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.5,0.5,mg/dL,2181-02-11 05:35:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50893,8.3,8.3,mg/dL,2181-02-11 05:35:00,"Calcium, Total",Blood,Chemistry,2000-8
+99985,50902,104,104,mEq/L,2181-02-11 05:35:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,0.9,0.9,mg/dL,2181-02-11 05:35:00,Creatinine,Blood,Chemistry,2160-0
+99985,50931,115,115,mg/dL,2181-02-11 05:35:00,Glucose,Blood,Chemistry,2345-7
+99985,50960,2.3,2.3,mg/dL,2181-02-11 05:35:00,Magnesium,Blood,Chemistry,2601-3
+99985,50970,3.8,3.8,mg/dL,2181-02-11 05:35:00,Phosphate,Blood,Chemistry,2777-1
+99985,50971,3.6,3.6,mEq/L,2181-02-11 05:35:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,140,140,mEq/L,2181-02-11 05:35:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,13,13,mg/dL,2181-02-11 05:35:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51137,1+,,,2181-02-11 05:35:00,Anisocytosis,Blood,Hematology,702-1
+99985,51143,0,0,%,2181-02-11 05:35:00,Atypical Lymphocytes,Blood,Hematology,733-6
+99985,51144,0,0,%,2181-02-11 05:35:00,Bands,Blood,Hematology,763-3
+99985,51146,1,1,%,2181-02-11 05:35:00,Basophils,Blood,Hematology,704-7
+99985,51151,OCCASIONAL,,,2181-02-11 05:35:00,Burr Cells,Blood,Hematology,7790-9
+99985,51200,3,3,%,2181-02-11 05:35:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,27.9,27.9,%,2181-02-11 05:35:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,9.2,9.2,g/dL,2181-02-11 05:35:00,Hemoglobin,Blood,Hematology,718-7
+99985,51233,1+,,,2181-02-11 05:35:00,Hypochromia,Blood,Hematology,728-6
+99985,51237,1.3,1.3,,2181-02-11 05:35:00,INR(PT),Blood,Hematology,5895-7
+99985,51244,9,9,%,2181-02-11 05:35:00,Lymphocytes,Blood,Hematology,731-0
+99985,51246,OCCASIONAL,,,2181-02-11 05:35:00,Macrocytes,Blood,Hematology,738-5
+99985,51248,29.4,29.4,pg,2181-02-11 05:35:00,MCH,Blood,Hematology,785-6
+99985,51249,33.0,33,%,2181-02-11 05:35:00,MCHC,Blood,Hematology,786-4
+99985,51250,89,89,fL,2181-02-11 05:35:00,MCV,Blood,Hematology,787-2
+99985,51251,0,0,%,2181-02-11 05:35:00,Metamyelocytes,Blood,Hematology,28541-1
+99985,51252,1+,,,2181-02-11 05:35:00,Microcytes,Blood,Hematology,741-9
+99985,51254,5,5,%,2181-02-11 05:35:00,Monocytes,Blood,Hematology,742-7
+99985,51255,0,0,%,2181-02-11 05:35:00,Myelocytes,Blood,Hematology,26498-6
+99985,51256,82,82,%,2181-02-11 05:35:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,804,804,K/uL,2181-02-11 05:35:00,Platelet Count,Blood,Hematology,777-3
+99985,51266,VERY HIGH,,,2181-02-11 05:35:00,Platelet Smear,Blood,Hematology,778-1
+99985,51267,OCCASIONAL,,,2181-02-11 05:35:00,Poikilocytosis,Blood,Hematology,779-9
+99985,51268,1+,,,2181-02-11 05:35:00,Polychromasia,Blood,Hematology,10378-8
+99985,51274,14.4,14.4,sec,2181-02-11 05:35:00,PT,Blood,Hematology,5902-2
+99985,51275,35.3,35.3,sec,2181-02-11 05:35:00,PTT,Blood,Hematology,3173-2
+99985,51277,17.1,17.1,%,2181-02-11 05:35:00,RDW,Blood,Hematology,788-0
+99985,51279,3.12,3.12,m/uL,2181-02-11 05:35:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51294,1+,,,2181-02-11 05:35:00,Target Cells,Blood,Hematology,10381-2
+99985,51301,13.3,13.3,K/uL,2181-02-11 05:35:00,White Blood Cells,Blood,Hematology,804-5
+99985,50868,13,13,mEq/L,2181-02-12 05:56:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50882,28,28,mEq/L,2181-02-12 05:56:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50893,8.1,8.1,mg/dL,2181-02-12 05:56:00,"Calcium, Total",Blood,Chemistry,2000-8
+99985,50902,100,100,mEq/L,2181-02-12 05:56:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,0.9,0.9,mg/dL,2181-02-12 05:56:00,Creatinine,Blood,Chemistry,2160-0
+99985,50931,101,101,mg/dL,2181-02-12 05:56:00,Glucose,Blood,Chemistry,2345-7
+99985,50960,2.3,2.3,mg/dL,2181-02-12 05:56:00,Magnesium,Blood,Chemistry,2601-3
+99985,50970,3.7,3.7,mg/dL,2181-02-12 05:56:00,Phosphate,Blood,Chemistry,2777-1
+99985,50971,3.8,3.8,mEq/L,2181-02-12 05:56:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,137,137,mEq/L,2181-02-12 05:56:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,11,11,mg/dL,2181-02-12 05:56:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51221,27.0,27,%,2181-02-12 05:56:00,Hematocrit,Blood,Hematology,4544-3
+99985,50852,6.2,6.2,%,2181-01-18 12:00:00,% Hemoglobin A1c,Blood,Chemistry,4548-4
+99985,50861,65,65,IU/L,2181-01-18 12:00:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50868,15,15,mEq/L,2181-01-18 12:00:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,55,55,IU/L,2181-01-18 12:00:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,29,29,mEq/L,2181-01-18 12:00:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50902,101,101,mEq/L,2181-01-18 12:00:00,Chloride,Blood,Chemistry,2075-0
+99985,50903,3.5,3.5,Ratio,2181-01-18 12:00:00,Cholesterol Ratio (Total/HDL),Blood,Chemistry,9322-9
+99985,50904,47,47,mg/dL,2181-01-18 12:00:00,"Cholesterol, HDL",Blood,Chemistry,2085-9
+99985,50905,87,87,mg/dL,2181-01-18 12:00:00,"Cholesterol, LDL, Calculated",Blood,Chemistry,2090-9
+99985,50906,97,97,mg/dL,2181-01-18 12:00:00,"Cholesterol, LDL, Measured",Blood,Chemistry,18262-6
+99985,50907,165,165,mg/dL,2181-01-18 12:00:00,"Cholesterol, Total",Blood,Chemistry,2093-3
+99985,50912,1.0,1,mg/dL,2181-01-18 12:00:00,Creatinine,Blood,Chemistry,2160-0
+99985,50920,See Comments,,,2181-01-18 12:00:00,Estimated GFR (MDRD equation),Blood,Chemistry,33914-3
+99985,50931,74,74,mg/dL,2181-01-18 12:00:00,Glucose,Blood,Chemistry,2345-7
+99985,50971,4.4,4.4,mEq/L,2181-01-18 12:00:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,141,141,mEq/L,2181-01-18 12:00:00,Sodium,Blood,Chemistry,2951-2
+99985,50993,4.6,4.6,uIU/mL,2181-01-18 12:00:00,Thyroid Stimulating Hormone,Blood,Chemistry,3016-3
+99985,51000,156,156,mg/dL,2181-01-18 12:00:00,Triglycerides,Blood,Chemistry,1644-4
+99985,51006,23,23,mg/dL,2181-01-18 12:00:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51146,0.7,0.7,%,2181-01-18 12:00:00,Basophils,Blood,Hematology,704-7
+99985,51200,2.1,2.1,%,2181-01-18 12:00:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,37.8,37.8,%,2181-01-18 12:00:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,12.6,12.6,g/dL,2181-01-18 12:00:00,Hemoglobin,Blood,Hematology,718-7
+99985,51244,30.4,30.4,%,2181-01-18 12:00:00,Lymphocytes,Blood,Hematology,731-0
+99985,51248,29.7,29.7,pg,2181-01-18 12:00:00,MCH,Blood,Hematology,785-6
+99985,51249,33.3,33.3,%,2181-01-18 12:00:00,MCHC,Blood,Hematology,786-4
+99985,51250,89,89,fL,2181-01-18 12:00:00,MCV,Blood,Hematology,787-2
+99985,51254,6.8,6.8,%,2181-01-18 12:00:00,Monocytes,Blood,Hematology,742-7
+99985,51256,60.0,60,%,2181-01-18 12:00:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,376,376,K/uL,2181-01-18 12:00:00,Platelet Count,Blood,Hematology,777-3
+99985,51277,13.6,13.6,%,2181-01-18 12:00:00,RDW,Blood,Hematology,788-0
+99985,51279,4.24,4.24,m/uL,2181-01-18 12:00:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,8.8,8.8,K/uL,2181-01-18 12:00:00,White Blood Cells,Blood,Hematology,804-5
+99985,51146,0.4,0.4,%,2181-01-26 18:21:00,Basophils,Blood,Hematology,704-7
+99985,51200,0.2,0.2,%,2181-01-26 18:21:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,36.4,36.4,%,2181-01-26 18:21:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,12.4,12.4,g/dL,2181-01-26 18:21:00,Hemoglobin,Blood,Hematology,718-7
+99985,51244,8.1,8.1,%,2181-01-26 18:21:00,Lymphocytes,Blood,Hematology,731-0
+99985,51248,29.6,29.6,pg,2181-01-26 18:21:00,MCH,Blood,Hematology,785-6
+99985,51249,34.2,34.2,%,2181-01-26 18:21:00,MCHC,Blood,Hematology,786-4
+99985,51250,87,87,fL,2181-01-26 18:21:00,MCV,Blood,Hematology,787-2
+99985,51254,6.1,6.1,%,2181-01-26 18:21:00,Monocytes,Blood,Hematology,742-7
+99985,51256,85.1,85.1,%,2181-01-26 18:21:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,349,349,K/uL,2181-01-26 18:21:00,Platelet Count,Blood,Hematology,777-3
+99985,51277,14.0,14,%,2181-01-26 18:21:00,RDW,Blood,Hematology,788-0
+99985,51279,4.20,4.2,m/uL,2181-01-26 18:21:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,13.0,13,K/uL,2181-01-26 18:21:00,White Blood Cells,Blood,Hematology,804-5
+99985,50861,96,96,IU/L,2181-01-27 00:30:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50863,127,127,IU/L,2181-01-27 00:30:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,20,20,mEq/L,2181-01-27 00:30:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,92,92,IU/L,2181-01-27 00:30:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99991,50802,-4,-4,mEq/L,2184-12-29 04:13:00,Base Excess,Blood,Blood Gas,11555-0
+99991,50804,21,21,mEq/L,2184-12-29 04:13:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99991,50813,1.0,1,mmol/L,2184-12-29 04:13:00,Lactate,Blood,Blood Gas,32693-4
+99991,50816,100,100,%,2184-12-29 04:13:00,Oxygen,Blood,Blood Gas,19994-3
+99991,50818,36,36,mm Hg,2184-12-29 04:13:00,pCO2,Blood,Blood Gas,11557-6
+99991,50820,7.35,7.35,units,2184-12-29 04:13:00,pH,Blood,Blood Gas,11558-4
+99991,50821,189,189,mm Hg,2184-12-29 04:13:00,pO2,Blood,Blood Gas,11556-8
+99991,50823,83,83,,2184-12-29 04:13:00,Required O2,Blood,Blood Gas,
+99991,50825,37.2,37.2,,2184-12-29 04:13:00,Temperature,Blood,Blood Gas,
+99991,50868,10,10,mEq/L,2184-12-29 14:33:00,Anion Gap,Blood,Chemistry,1863-0
+99991,50882,26,26,mEq/L,2184-12-29 14:33:00,Bicarbonate,Blood,Chemistry,1963-8
+99991,50893,7.6,7.6,mg/dL,2184-12-29 14:33:00,"Calcium, Total",Blood,Chemistry,2000-8
+99991,50902,113,113,mEq/L,2184-12-29 14:33:00,Chloride,Blood,Chemistry,2075-0
+99991,50912,0.9,0.9,mg/dL,2184-12-29 14:33:00,Creatinine,Blood,Chemistry,2160-0
+99991,50931,121,121,mg/dL,2184-12-29 14:33:00,Glucose,Blood,Chemistry,2345-7
+99991,50960,2.4,2.4,mg/dL,2184-12-29 14:33:00,Magnesium,Blood,Chemistry,2601-3
+99991,50970,1.7,1.7,mg/dL,2184-12-29 14:33:00,Phosphate,Blood,Chemistry,2777-1
+99991,50971,3.4,3.4,mEq/L,2184-12-29 14:33:00,Potassium,Blood,Chemistry,2823-3
+99985,50816,80,80,%,2181-01-29 15:08:00,Oxygen,Blood,Blood Gas,19994-3
+99985,50818,37,37,mm Hg,2181-01-29 15:08:00,pCO2,Blood,Blood Gas,11557-6
+99985,50819,8,8,,2181-01-29 15:08:00,PEEP,Blood,Blood Gas,20077-4
+99985,50820,7.40,7.4,units,2181-01-29 15:08:00,pH,Blood,Blood Gas,11558-4
+99985,50821,109,109,mm Hg,2181-01-29 15:08:00,pO2,Blood,Blood Gas,11556-8
+99985,50823,74,74,,2181-01-29 15:08:00,Required O2,Blood,Blood Gas,
+99985,50825,37.3,37.3,,2181-01-29 15:08:00,Temperature,Blood,Blood Gas,
+99985,50826,500,500,,2181-01-29 15:08:00,Tidal Volume,Blood,Blood Gas,20112-9
+99985,50827,18/,,,2181-01-29 15:08:00,Ventilation Rate,Blood,Blood Gas,
+99985,50800,ART,,,2181-01-29 23:32:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,-4,-4,mEq/L,2181-01-29 23:32:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,21,21,mEq/L,2181-01-29 23:32:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,INTUBATED,,,2181-01-29 23:32:00,Intubated,Blood,Blood Gas,
+99985,50816,60,60,%,2181-01-29 23:32:00,Oxygen,Blood,Blood Gas,19994-3
+99985,50818,36,36,mm Hg,2181-01-29 23:32:00,pCO2,Blood,Blood Gas,11557-6
+99985,50819,8,8,,2181-01-29 23:32:00,PEEP,Blood,Blood Gas,20077-4
+99985,50820,7.36,7.36,units,2181-01-29 23:32:00,pH,Blood,Blood Gas,11558-4
+99985,50821,78,78,mm Hg,2181-01-29 23:32:00,pO2,Blood,Blood Gas,11556-8
+99985,50825,38.2,38.2,,2181-01-29 23:32:00,Temperature,Blood,Blood Gas,
+99985,50826,500,500,,2181-01-29 23:32:00,Tidal Volume,Blood,Blood Gas,20112-9
+99985,50827,18/,,,2181-01-29 23:32:00,Ventilation Rate,Blood,Blood Gas,
+99985,50861,31,31,IU/L,2181-01-30 03:19:00,Alanine Aminotransferase (ALT),Blood,Chemistry,1742-6
+99985,50862,2.4,2.4,g/dL,2181-01-30 03:19:00,Albumin,Blood,Chemistry,1751-7
+99985,50863,89,89,IU/L,2181-01-30 03:19:00,Alkaline Phosphatase,Blood,Chemistry,6768-6
+99985,50868,11,11,mEq/L,2181-01-30 03:19:00,Anion Gap,Blood,Chemistry,1863-0
+99985,50878,29,29,IU/L,2181-01-30 03:19:00,Asparate Aminotransferase (AST),Blood,Chemistry,1920-8
+99985,50882,22,22,mEq/L,2181-01-30 03:19:00,Bicarbonate,Blood,Chemistry,1963-8
+99985,50885,0.8,0.8,mg/dL,2181-01-30 03:19:00,"Bilirubin, Total",Blood,Chemistry,1975-2
+99985,50902,105,105,mEq/L,2181-01-30 03:19:00,Chloride,Blood,Chemistry,2075-0
+99985,50912,1.0,1,mg/dL,2181-01-30 03:19:00,Creatinine,Blood,Chemistry,2160-0
+99985,50931,96,96,mg/dL,2181-01-30 03:19:00,Glucose,Blood,Chemistry,2345-7
+99985,50954,162,162,IU/L,2181-01-30 03:19:00,Lactate Dehydrogenase (LD),Blood,Chemistry,2532-0
+99985,50971,3.9,3.9,mEq/L,2181-01-30 03:19:00,Potassium,Blood,Chemistry,2823-3
+99985,50983,134,134,mEq/L,2181-01-30 03:19:00,Sodium,Blood,Chemistry,2951-2
+99985,51006,16,16,mg/dL,2181-01-30 03:19:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99985,51146,0.3,0.3,%,2181-01-30 03:19:00,Basophils,Blood,Hematology,704-7
+99985,51200,0.9,0.9,%,2181-01-30 03:19:00,Eosinophils,Blood,Hematology,711-2
+99985,51221,28.9,28.9,%,2181-01-30 03:19:00,Hematocrit,Blood,Hematology,4544-3
+99985,51222,9.7,9.7,g/dL,2181-01-30 03:19:00,Hemoglobin,Blood,Hematology,718-7
+99985,51237,1.1,1.1,,2181-01-30 03:19:00,INR(PT),Blood,Hematology,5895-7
+99985,51244,11.7,11.7,%,2181-01-30 03:19:00,Lymphocytes,Blood,Hematology,731-0
+99985,51248,29.7,29.7,pg,2181-01-30 03:19:00,MCH,Blood,Hematology,785-6
+99985,51249,33.7,33.7,%,2181-01-30 03:19:00,MCHC,Blood,Hematology,786-4
+99985,51250,88,88,fL,2181-01-30 03:19:00,MCV,Blood,Hematology,787-2
+99985,51254,6.6,6.6,%,2181-01-30 03:19:00,Monocytes,Blood,Hematology,742-7
+99985,51256,80.5,80.5,%,2181-01-30 03:19:00,Neutrophils,Blood,Hematology,761-7
+99985,51265,253,253,K/uL,2181-01-30 03:19:00,Platelet Count,Blood,Hematology,777-3
+99985,51274,12.5,12.5,sec,2181-01-30 03:19:00,PT,Blood,Hematology,5902-2
+99985,51275,47.7,47.7,sec,2181-01-30 03:19:00,PTT,Blood,Hematology,3173-2
+99985,51277,14.5,14.5,%,2181-01-30 03:19:00,RDW,Blood,Hematology,788-0
+99985,51279,3.28,3.28,m/uL,2181-01-30 03:19:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,12.3,12.3,K/uL,2181-01-30 03:19:00,White Blood Cells,Blood,Hematology,804-5
+99985,50800,ART,,,2181-01-30 04:01:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,-1,-1,mEq/L,2181-01-30 04:01:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,25,25,mEq/L,2181-01-30 04:01:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,INTUBATED,,,2181-01-30 04:01:00,Intubated,Blood,Blood Gas,
+99985,50816,60,60,%,2181-01-30 04:01:00,Oxygen,Blood,Blood Gas,19994-3
+99985,50818,41,41,mm Hg,2181-01-30 04:01:00,pCO2,Blood,Blood Gas,11557-6
+99985,50819,8,8,,2181-01-30 04:01:00,PEEP,Blood,Blood Gas,20077-4
+99985,50820,7.37,7.37,units,2181-01-30 04:01:00,pH,Blood,Blood Gas,11558-4
+99985,50821,81,81,mm Hg,2181-01-30 04:01:00,pO2,Blood,Blood Gas,11556-8
+99985,50825,38.8,38.8,,2181-01-30 04:01:00,Temperature,Blood,Blood Gas,
+99985,50826,500,500,,2181-01-30 04:01:00,Tidal Volume,Blood,Blood Gas,20112-9
+99985,50827,18/,,,2181-01-30 04:01:00,Ventilation Rate,Blood,Blood Gas,
+99985,50800,ART,,,2181-01-30 13:00:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,-1,-1,mEq/L,2181-01-30 13:00:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,23,23,mEq/L,2181-01-30 13:00:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,INTUBATED,,,2181-01-30 13:00:00,Intubated,Blood,Blood Gas,
+99985,50816,60,60,%,2181-01-30 13:00:00,Oxygen,Blood,Blood Gas,19994-3
+99985,50818,35,35,mm Hg,2181-01-30 13:00:00,pCO2,Blood,Blood Gas,11557-6
+99985,50819,8,8,,2181-01-30 13:00:00,PEEP,Blood,Blood Gas,20077-4
+99985,50820,7.41,7.41,units,2181-01-30 13:00:00,pH,Blood,Blood Gas,11558-4
+99985,50821,96,96,mm Hg,2181-01-30 13:00:00,pO2,Blood,Blood Gas,11556-8
+99985,50826,400,400,,2181-01-30 13:00:00,Tidal Volume,Blood,Blood Gas,20112-9
+99985,50827,24/,,,2181-01-30 13:00:00,Ventilation Rate,Blood,Blood Gas,
+99985,50800,ART,,,2181-01-30 16:13:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,-1,-1,mEq/L,2181-01-30 16:13:00,Base Excess,Blood,Blood Gas,11555-0
+99992,50971,4.1,4.1,mEq/L,2144-07-28 04:53:00,Potassium,Blood,Chemistry,2823-3
+99992,50983,140,140,mEq/L,2144-07-28 04:53:00,Sodium,Blood,Chemistry,2951-2
+99992,51006,34,34,mg/dL,2144-07-28 04:53:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99992,51221,26.3,26.3,%,2144-07-28 04:53:00,Hematocrit,Blood,Hematology,4544-3
+99992,51222,9.2,9.2,g/dL,2144-07-28 04:53:00,Hemoglobin,Blood,Hematology,718-7
+99992,51237,1.0,1,,2144-07-28 04:53:00,INR(PT),Blood,Hematology,5895-7
+99992,51248,31.5,31.5,pg,2144-07-28 04:53:00,MCH,Blood,Hematology,785-6
+99992,51249,34.9,34.9,%,2144-07-28 04:53:00,MCHC,Blood,Hematology,786-4
+99992,51250,90,90,fL,2144-07-28 04:53:00,MCV,Blood,Hematology,787-2
+99992,51265,109,109,K/uL,2144-07-28 04:53:00,Platelet Count,Blood,Hematology,777-3
+99992,51274,11.7,11.7,sec,2144-07-28 04:53:00,PT,Blood,Hematology,5902-2
+99992,51275,24.2,24.2,sec,2144-07-28 04:53:00,PTT,Blood,Hematology,3173-2
+99992,51277,16.6,16.6,%,2144-07-28 04:53:00,RDW,Blood,Hematology,788-0
+99992,51279,2.91,2.91,m/uL,2144-07-28 04:53:00,Red Blood Cells,Blood,Hematology,789-8
+99992,51301,10.0,10,K/uL,2144-07-28 04:53:00,White Blood Cells,Blood,Hematology,804-5
+99995,51237,1.9,1.9,,2147-02-08 09:05:00,INR(PT),Blood,Hematology,5895-7
+99995,51274,19.7,19.7,sec,2147-02-08 09:05:00,PT,Blood,Hematology,5902-2
+99995,51275,35.5,35.5,sec,2147-02-08 09:05:00,PTT,Blood,Hematology,3173-2
+99995,50802,10,10,mEq/L,2147-02-08 09:17:00,Base Excess,Blood,Blood Gas,11555-0
+99995,50804,33,33,mEq/L,2147-02-08 09:17:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99995,50805,2,2,%,2147-02-08 09:17:00,Carboxyhemoglobin,Blood,Blood Gas,20563-3
+99995,50806,95,95,mEq/L,2147-02-08 09:17:00,"Chloride, Whole Blood",Blood,Blood Gas,2069-3
+99995,50808,1.07,1.07,mmol/L,2147-02-08 09:17:00,Free Calcium,Blood,Blood Gas,1994-3
+99995,50809,100,100,mg/dL,2147-02-08 09:17:00,Glucose,Blood,Blood Gas,2339-0
+99995,50810,25,25,%,2147-02-08 09:17:00,"Hematocrit, Calculated",Blood,Blood Gas,20570-8
+99995,50811,8.2,8.2,g/dL,2147-02-08 09:17:00,Hemoglobin,Blood,Blood Gas,718-7
+99995,50813,1.1,1.1,mmol/L,2147-02-08 09:17:00,Lactate,Blood,Blood Gas,32693-4
+99995,50817,98,98,%,2147-02-08 09:17:00,Oxygen Saturation,Blood,Blood Gas,20564-1
+99995,50818,33,33,mm Hg,2147-02-08 09:17:00,pCO2,Blood,Blood Gas,11557-6
+99995,50820,7.59,7.59,units,2147-02-08 09:17:00,pH,Blood,Blood Gas,11558-4
+99995,50821,376,376,mm Hg,2147-02-08 09:17:00,pO2,Blood,Blood Gas,11556-8
+99995,50822,3.5,3.5,mEq/L,2147-02-08 09:17:00,"Potassium, Whole Blood",Blood,Blood Gas,6298-4
+99995,50824,132,132,mEq/L,2147-02-08 09:17:00,"Sodium, Whole Blood",Blood,Blood Gas,2947-0
+99991,50983,146,146,mEq/L,2184-12-29 14:33:00,Sodium,Blood,Chemistry,2951-2
+99991,51006,18,18,mg/dL,2184-12-29 14:33:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99991,50868,12,12,mEq/L,2184-12-30 02:32:00,Anion Gap,Blood,Chemistry,1863-0
+99991,50882,27,27,mEq/L,2184-12-30 02:32:00,Bicarbonate,Blood,Chemistry,1963-8
+99991,50893,7.8,7.8,mg/dL,2184-12-30 02:32:00,"Calcium, Total",Blood,Chemistry,2000-8
+99991,50902,111,111,mEq/L,2184-12-30 02:32:00,Chloride,Blood,Chemistry,2075-0
+99991,50912,0.8,0.8,mg/dL,2184-12-30 02:32:00,Creatinine,Blood,Chemistry,2160-0
+99991,50931,145,145,mg/dL,2184-12-30 02:32:00,Glucose,Blood,Chemistry,2345-7
+99991,50960,2.2,2.2,mg/dL,2184-12-30 02:32:00,Magnesium,Blood,Chemistry,2601-3
+99991,50970,2.5,2.5,mg/dL,2184-12-30 02:32:00,Phosphate,Blood,Chemistry,2777-1
+99991,50971,3.7,3.7,mEq/L,2184-12-30 02:32:00,Potassium,Blood,Chemistry,2823-3
+99991,50983,146,146,mEq/L,2184-12-30 02:32:00,Sodium,Blood,Chemistry,2951-2
+99991,51006,17,17,mg/dL,2184-12-30 02:32:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99991,51221,28.2,28.2,%,2184-12-30 02:32:00,Hematocrit,Blood,Hematology,4544-3
+99991,51222,9.5,9.5,g/dL,2184-12-30 02:32:00,Hemoglobin,Blood,Hematology,718-7
+99991,51248,28.9,28.9,pg,2184-12-30 02:32:00,MCH,Blood,Hematology,785-6
+99991,51249,33.7,33.7,%,2184-12-30 02:32:00,MCHC,Blood,Hematology,786-4
+99991,51250,86,86,fL,2184-12-30 02:32:00,MCV,Blood,Hematology,787-2
+99991,51265,294,294,K/uL,2184-12-30 02:32:00,Platelet Count,Blood,Hematology,777-3
+99991,51277,13.2,13.2,%,2184-12-30 02:32:00,RDW,Blood,Hematology,788-0
+99991,51279,3.29,3.29,m/uL,2184-12-30 02:32:00,Red Blood Cells,Blood,Hematology,789-8
+99991,51301,9.2,9.2,K/uL,2184-12-30 02:32:00,White Blood Cells,Blood,Hematology,804-5
+99991,51009,2.4,2.4,ug/mL,2184-12-30 06:14:00,Vancomycin,Blood,Chemistry,20578-1
+99991,50960,2.1,2.1,mg/dL,2184-12-30 17:22:00,Magnesium,Blood,Chemistry,2601-3
+99991,50971,3.5,3.5,mEq/L,2184-12-30 17:22:00,Potassium,Blood,Chemistry,2823-3
+99991,50868,10,10,mEq/L,2184-12-31 01:30:00,Anion Gap,Blood,Chemistry,1863-0
+99991,50882,30,30,mEq/L,2184-12-31 01:30:00,Bicarbonate,Blood,Chemistry,1963-8
+99991,50893,8.2,8.2,mg/dL,2184-12-31 01:30:00,"Calcium, Total",Blood,Chemistry,2000-8
+99991,50902,109,109,mEq/L,2184-12-31 01:30:00,Chloride,Blood,Chemistry,2075-0
+99991,50912,0.9,0.9,mg/dL,2184-12-31 01:30:00,Creatinine,Blood,Chemistry,2160-0
+99991,50931,135,135,mg/dL,2184-12-31 01:30:00,Glucose,Blood,Chemistry,2345-7
+99991,50960,2.2,2.2,mg/dL,2184-12-31 01:30:00,Magnesium,Blood,Chemistry,2601-3
+99991,50970,4.1,4.1,mg/dL,2184-12-31 01:30:00,Phosphate,Blood,Chemistry,2777-1
+99991,50971,3.7,3.7,mEq/L,2184-12-31 01:30:00,Potassium,Blood,Chemistry,2823-3
+99991,50983,145,145,mEq/L,2184-12-31 01:30:00,Sodium,Blood,Chemistry,2951-2
+99991,51006,20,20,mg/dL,2184-12-31 01:30:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99991,51221,26.5,26.5,%,2184-12-31 01:30:00,Hematocrit,Blood,Hematology,4544-3
+99991,51222,8.9,8.9,g/dL,2184-12-31 01:30:00,Hemoglobin,Blood,Hematology,718-7
+99991,51248,28.4,28.4,pg,2184-12-31 01:30:00,MCH,Blood,Hematology,785-6
+99991,51249,33.5,33.5,%,2184-12-31 01:30:00,MCHC,Blood,Hematology,786-4
+99991,51250,85,85,fL,2184-12-31 01:30:00,MCV,Blood,Hematology,787-2
+99991,51265,351,351,K/uL,2184-12-31 01:30:00,Platelet Count,Blood,Hematology,777-3
+99991,51277,13.3,13.3,%,2184-12-31 01:30:00,RDW,Blood,Hematology,788-0
+99991,51279,3.13,3.13,m/uL,2184-12-31 01:30:00,Red Blood Cells,Blood,Hematology,789-8
+99991,51301,7.7,7.7,K/uL,2184-12-31 01:30:00,White Blood Cells,Blood,Hematology,804-5
+99991,50868,12,12,mEq/L,2185-01-01 04:53:00,Anion Gap,Blood,Chemistry,1863-0
+99991,50882,29,29,mEq/L,2185-01-01 04:53:00,Bicarbonate,Blood,Chemistry,1963-8
+99991,50893,8.2,8.2,mg/dL,2185-01-01 04:53:00,"Calcium, Total",Blood,Chemistry,2000-8
+99991,50902,109,109,mEq/L,2185-01-01 04:53:00,Chloride,Blood,Chemistry,2075-0
+99991,50912,0.8,0.8,mg/dL,2185-01-01 04:53:00,Creatinine,Blood,Chemistry,2160-0
+99991,50931,122,122,mg/dL,2185-01-01 04:53:00,Glucose,Blood,Chemistry,2345-7
+99991,50960,2.0,2,mg/dL,2185-01-01 04:53:00,Magnesium,Blood,Chemistry,2601-3
+99991,50970,3.9,3.9,mg/dL,2185-01-01 04:53:00,Phosphate,Blood,Chemistry,2777-1
+99991,50971,3.9,3.9,mEq/L,2185-01-01 04:53:00,Potassium,Blood,Chemistry,2823-3
+99991,50983,146,146,mEq/L,2185-01-01 04:53:00,Sodium,Blood,Chemistry,2951-2
+99991,51006,16,16,mg/dL,2185-01-01 04:53:00,Urea Nitrogen,Blood,Chemistry,3094-0
+99991,51221,27.1,27.1,%,2185-01-01 04:53:00,Hematocrit,Blood,Hematology,4544-3
+99995,50802,9,9,mEq/L,2147-02-08 11:21:00,Base Excess,Blood,Blood Gas,11555-0
+99995,50803,36,36,mEq/L,2147-02-08 11:21:00,"Calculated Bicarbonate, Whole Blood",Blood,Blood Gas,1959-6
+99995,50804,36,36,mEq/L,2147-02-08 11:21:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99995,50806,94,94,mEq/L,2147-02-08 11:21:00,"Chloride, Whole Blood",Blood,Blood Gas,2069-3
+99995,50809,96,96,mg/dL,2147-02-08 11:21:00,Glucose,Blood,Blood Gas,2339-0
+99995,50810,25,25,%,2147-02-08 11:21:00,"Hematocrit, Calculated",Blood,Blood Gas,20570-8
+99995,50811,8.4,8.4,g/dL,2147-02-08 11:21:00,Hemoglobin,Blood,Blood Gas,718-7
+99995,50813,1.1,1.1,mmol/L,2147-02-08 11:21:00,Lactate,Blood,Blood Gas,32693-4
+99995,50817,98,98,%,2147-02-08 11:21:00,Oxygen Saturation,Blood,Blood Gas,20564-1
+99995,50818,52,52,mm Hg,2147-02-08 11:21:00,pCO2,Blood,Blood Gas,11557-6
+99995,50820,7.43,7.43,units,2147-02-08 11:21:00,pH,Blood,Blood Gas,11558-4
+99995,50821,382,382,mm Hg,2147-02-08 11:21:00,pO2,Blood,Blood Gas,11556-8
+99995,50822,3.5,3.5,mEq/L,2147-02-08 11:21:00,"Potassium, Whole Blood",Blood,Blood Gas,6298-4
+99995,50824,132,132,mEq/L,2147-02-08 11:21:00,"Sodium, Whole Blood",Blood,Blood Gas,2947-0
+99995,50826,620,620,,2147-02-08 11:21:00,Tidal Volume,Blood,Blood Gas,20112-9
+99995,50802,7,7,mEq/L,2147-02-08 12:24:00,Base Excess,Blood,Blood Gas,11555-0
+99995,50804,32,32,mEq/L,2147-02-08 12:24:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99995,50806,95,95,mEq/L,2147-02-08 12:24:00,"Chloride, Whole Blood",Blood,Blood Gas,2069-3
+99995,50808,0.92,0.92,mmol/L,2147-02-08 12:24:00,Free Calcium,Blood,Blood Gas,1994-3
+99995,50809,117,117,mg/dL,2147-02-08 12:24:00,Glucose,Blood,Blood Gas,2339-0
+99995,50810,26,26,%,2147-02-08 12:24:00,"Hematocrit, Calculated",Blood,Blood Gas,20570-8
+99995,50811,8.6,8.6,g/dL,2147-02-08 12:24:00,Hemoglobin,Blood,Blood Gas,718-7
+99995,50813,1.5,1.5,mmol/L,2147-02-08 12:24:00,Lactate,Blood,Blood Gas,32693-4
+99995,50817,98,98,%,2147-02-08 12:24:00,Oxygen Saturation,Blood,Blood Gas,20564-1
+99995,50818,43,43,mm Hg,2147-02-08 12:24:00,pCO2,Blood,Blood Gas,11557-6
+99995,50820,7.47,7.47,units,2147-02-08 12:24:00,pH,Blood,Blood Gas,11558-4
+99995,50821,231,231,mm Hg,2147-02-08 12:24:00,pO2,Blood,Blood Gas,11556-8
+99995,50822,3.6,3.6,mEq/L,2147-02-08 12:24:00,"Potassium, Whole Blood",Blood,Blood Gas,6298-4
+99995,50824,132,132,mEq/L,2147-02-08 12:24:00,"Sodium, Whole Blood",Blood,Blood Gas,2947-0
+99995,50802,10,10,mEq/L,2147-02-08 13:26:00,Base Excess,Blood,Blood Gas,11555-0
+99995,50804,34,34,mEq/L,2147-02-08 13:26:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99995,50806,95,95,mEq/L,2147-02-08 13:26:00,"Chloride, Whole Blood",Blood,Blood Gas,2069-3
+99995,50808,1.12,1.12,mmol/L,2147-02-08 13:26:00,Free Calcium,Blood,Blood Gas,1994-3
+99995,50809,110,110,mg/dL,2147-02-08 13:26:00,Glucose,Blood,Blood Gas,2339-0
+99995,50810,27,27,%,2147-02-08 13:26:00,"Hematocrit, Calculated",Blood,Blood Gas,20570-8
+99995,50811,9.0,9,g/dL,2147-02-08 13:26:00,Hemoglobin,Blood,Blood Gas,718-7
+99995,50813,1.3,1.3,mmol/L,2147-02-08 13:26:00,Lactate,Blood,Blood Gas,32693-4
+99995,50817,98,98,%,2147-02-08 13:26:00,Oxygen Saturation,Blood,Blood Gas,20564-1
+99995,50818,44,44,mm Hg,2147-02-08 13:26:00,pCO2,Blood,Blood Gas,11557-6
+99985,51222,7.7,7.7,g/dL,2181-02-05 04:17:00,Hemoglobin,Blood,Hematology,718-7
+99985,51237,1.0,1,,2181-02-05 04:17:00,INR(PT),Blood,Hematology,5895-7
+99985,51248,29.1,29.1,pg,2181-02-05 04:17:00,MCH,Blood,Hematology,785-6
+99985,51249,32.2,32.2,%,2181-02-05 04:17:00,MCHC,Blood,Hematology,786-4
+99985,51250,90,90,fL,2181-02-05 04:17:00,MCV,Blood,Hematology,787-2
+99985,51265,623,623,K/uL,2181-02-05 04:17:00,Platelet Count,Blood,Hematology,777-3
+99985,51274,12.4,12.4,sec,2181-02-05 04:17:00,PT,Blood,Hematology,5902-2
+99985,51275,27.0,27,sec,2181-02-05 04:17:00,PTT,Blood,Hematology,3173-2
+99985,51277,15.1,15.1,%,2181-02-05 04:17:00,RDW,Blood,Hematology,788-0
+99985,51279,2.64,2.64,m/uL,2181-02-05 04:17:00,Red Blood Cells,Blood,Hematology,789-8
+99985,51301,25.6,25.6,K/uL,2181-02-05 04:17:00,White Blood Cells,Blood,Hematology,804-5
+99985,50800,ART,,,2181-02-05 12:05:00,SPECIMEN TYPE,BLOOD,BLOOD GAS,
+99985,50802,2,2,mEq/L,2181-02-05 12:05:00,Base Excess,Blood,Blood Gas,11555-0
+99985,50804,28,28,mEq/L,2181-02-05 12:05:00,Calculated Total CO2,Blood,Blood Gas,34728-6
+99985,50812,INTUBATED,,,2181-02-05 12:05:00,Intubated,Blood,Blood Gas,
+99985,50816,40,40,%,2181-02-05 12:05:00,Oxygen,Blood,Blood Gas,19994-3
+99985,50818,40,40,mm Hg,2181-02-05 12:05:00,pCO2,Blood,Blood Gas,11557-6
+99985,50819,5,5,,2181-02-05 12:05:00,PEEP,Blood,Blood Gas,20077-4
+99985,50820,7.44,7.44,units,2181-02-05 12:05:00,pH,Blood,Blood Gas,11558-4
+99985,50821,76,76,mm Hg,2181-02-05 12:05:00,pO2,Blood,Blood Gas,11556-8
+99985,50825,38.0,38,,2181-02-05 12:05:00,Temperature,Blood,Blood Gas,
+99985,50826,400,400,,2181-02-05 12:05:00,Tidal Volume,Blood,Blood Gas,20112-9
+99985,50827,/25,,,2181-02-05 12:05:00,Ventilation Rate,Blood,Blood Gas,
+99985,50828,SPONTANEOUS,,,2181-02-05 12:05:00,Ventilator,Blood,Blood Gas,
+99985,50960,2.3,2.3,mg/dL,2181-02-05 17:32:00,Magnesium,Blood,Chemistry,2601-3

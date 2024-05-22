@@ -1,0 +1,8 @@
+.display-linebreak {
+    white-space: pre-line;
+  }
+  
+/* styles.css */
+.input-placeholder::placeholder {
+  @apply text-base; /* Tailwind class for font-size, adjust as needed */
+}

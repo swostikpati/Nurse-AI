@@ -1,0 +1,53 @@
+[
+  {
+    "firstName": "",
+    "lastName": "",
+    "ID": "0",
+    "age": null,
+    "gender": "",
+    "history": ""
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Nas",
+    "ID": "P001",
+    "age": 45,
+    "gender": "Male",
+    "history": "Diabetes and hypertension"
+  },
+  {
+    "firstName": "Shanessa",
+    "lastName": "Reach",
+    "ID": "P002",
+    "age": 32,
+    "gender": "Female"
+  },
+  {
+    "firstName": "Maryam",
+    "lastName": "Mazroui",
+    "ID": "P003",
+    "age": 28,
+    "gender": "Female"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "ID": "P004",
+    "age": 50,
+    "gender": "Male"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "ID": "P005",
+    "age": 22,
+    "gender": "Female"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "ID": "P006",
+    "age": 40,
+    "gender": "Male"
+  }
+]
